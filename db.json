@@ -1,0 +1,5834 @@
+[
+  {
+    "id": 1768323665581,
+    "TenDP": "GLUCOSE 20%/100ml/500ml-317",
+    "DVT": "Chai",
+    "TonHT": 11
+  },
+  {
+    "id": 1768323665582,
+    "TenDP": "Lactated Ringers 500ml -317",
+    "DVT": "chai",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323665583,
+    "TenDP": "Mannitol 20% x 250ml 335",
+    "DVT": "Chai",
+    "TonHT": 7
+  },
+  {
+    "id": 1768323665584,
+    "TenDP": "NATRI BICARBONAT 1,4% 3,5g/250ml -317",
+    "DVT": "Chai",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665585,
+    "TenDP": "Sodium Chloride 0,9%/250ml -317",
+    "DVT": "Chai",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323665586,
+    "TenDP": "Sodium chloride 0,9%/500ml -317",
+    "DVT": "Chai",
+    "TonHT": 100
+  },
+  {
+    "id": 1768323665587,
+    "TenDP": "Cefoxitine Gerda 1g 1g -335",
+    "DVT": "Lọ",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665588,
+    "TenDP": "Sulfadiazin Bạc 1%/20g -317",
+    "DVT": "Tube",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665589,
+    "TenDP": "Vicimadol 2g 2g -317",
+    "DVT": "Lọ",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665590,
+    "TenDP": "Vinlevo Plus 500mg/20ml 335",
+    "DVT": "Lọ",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665591,
+    "TenDP": "Diazepam 10mg/2ml-335",
+    "DVT": "Ống",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323665592,
+    "TenDP": "Midazolam B. Braun 5mg/ml-1239",
+    "DVT": "Ống",
+    "TonHT": 30
+  },
+  {
+    "id": 1768323665593,
+    "TenDP": "Seduxen 5mg 5mg -317",
+    "DVT": "Viên",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323665594,
+    "TenDP": "A.T Nitroglycerin inj 10mg 335",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665595,
+    "TenDP": "Actrapid 1000IU/10ml 335",
+    "DVT": "Lọ",
+    "TonHT": 1
+  },
+  {
+    "id": 1768323665596,
+    "TenDP": "Adrenalin 1mg/1ml -1239",
+    "DVT": "Ông",
+    "TonHT": 30
+  },
+  {
+    "id": 1768323665597,
+    "TenDP": "Adrenaline-BFS 5mg/5ml -317",
+    "DVT": "Lọ",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665598,
+    "TenDP": "BFS-Naloxone 0,4mg/ml(*)",
+    "DVT": "Ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323665599,
+    "TenDP": "BFS-Noradrenaline 10mg -335",
+    "DVT": "Lọ",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665600,
+    "TenDP": "Calci clorid 500mg/ 5ml -335",
+    "DVT": "ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665601,
+    "TenDP": "Digoxin-BFS 0,25mg/ 1ml -317",
+    "DVT": "Lọ",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665602,
+    "TenDP": "Dimedrol 10mg/ml -317",
+    "DVT": "ống",
+    "TonHT": 40
+  },
+  {
+    "id": 1768323665603,
+    "TenDP": "Dobutamin - BFS 250mg/5ml -317",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665604,
+    "TenDP": "Glucose 30% 1,5g/5ml -317",
+    "DVT": "ống",
+    "TonHT": 30
+  },
+  {
+    "id": 1768323665605,
+    "TenDP": "Hantacid 10ml-317",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665606,
+    "TenDP": "Lidocain Spray 10%/38g",
+    "DVT": "lọ",
+    "TonHT": 1
+  },
+  {
+    "id": 1768323665607,
+    "TenDP": "Lovenox-40mg/0,4ml",
+    "DVT": "Bơm tiêm",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665608,
+    "TenDP": "Magnesi sulfat Kabi 15% 15%/10ml -1239",
+    "DVT": "ống",
+    "TonHT": 6
+  },
+  {
+    "id": 1768323665609,
+    "TenDP": "Medcelore Injection 40mg -317",
+    "DVT": "Lọ",
+    "TonHT": 27
+  },
+  {
+    "id": 1768323665610,
+    "TenDP": "Nicardipine Aguettant 10mg/10ml -317",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665611,
+    "TenDP": "No-Spa 40mg/2ml - 1239",
+    "DVT": "Ống",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323665612,
+    "TenDP": "Nước cất tiêm 5ml(*)",
+    "DVT": "ống",
+    "TonHT": 76
+  },
+  {
+    "id": 1768323665613,
+    "TenDP": "Potassium Chloride Proamp1g/10ml-1239",
+    "DVT": "Ống",
+    "TonHT": 15
+  },
+  {
+    "id": 1768323665614,
+    "TenDP": "Takizd 20mg/2ml -1239",
+    "DVT": "Ống",
+    "TonHT": 50
+  },
+  {
+    "id": 1768323665615,
+    "TenDP": "Trinitrina 5mg/1,5ml -317",
+    "DVT": "Ống",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323665616,
+    "TenDP": "Vincynon 500mg/4ml - 335",
+    "DVT": "Ống",
+    "TonHT": 15
+  },
+  {
+    "id": 1768323665617,
+    "TenDP": "Vinfadin V20 20mg -317",
+    "DVT": "Lọ",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323665618,
+    "TenDP": "Vinsalpium (2,5mg+0,5mg)/2,5ml -1239",
+    "DVT": "Ống",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323665619,
+    "TenDP": "Vintanil 500 500mg -317",
+    "DVT": "Lọ",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665620,
+    "TenDP": "Vinterlin 0,5mg/ml -1239",
+    "DVT": "Ống",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323665621,
+    "TenDP": "Voltaren 75mg/3ml - 758",
+    "DVT": "ống",
+    "TonHT": 30
+  },
+  {
+    "id": 1768323665622,
+    "TenDP": "Zensonid 0,5 mg 335",
+    "DVT": "Lọ",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323665623,
+    "TenDP": "Atropin sulfat 0,25mg/1ml -317",
+    "DVT": "Ống",
+    "TonHT": 70
+  },
+  {
+    "id": 1768323665624,
+    "TenDP": "Aubein 25mg/2.5ml -317",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665625,
+    "TenDP": "Fresofol 1% Mct/Lct 1% (10mg/ml) -317",
+    "DVT": "Ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323665626,
+    "TenDP": "Octreotid 0,1mg/1ml -317",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665627,
+    "TenDP": "Amlor 5mg -285",
+    "DVT": "Viên",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323665628,
+    "TenDP": "Aspirin tab DWP 75mg 75mg -317",
+    "DVT": "Viên",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323665629,
+    "TenDP": "Betaloc Zok 25mg 23,75mg-1151",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665630,
+    "TenDP": "Brilinta 90mg 758",
+    "DVT": "Viên",
+    "TonHT": 40
+  },
+  {
+    "id": 1768323665631,
+    "TenDP": "Efferalgan 80mg -317",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665632,
+    "TenDP": "PARTAMOL TAB. 500mg 335",
+    "DVT": "Viên",
+    "TonHT": 30
+  },
+  {
+    "id": 1768323665633,
+    "TenDP": "Lactated Ringers 500ml -317",
+    "DVT": "chai",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323665634,
+    "TenDP": "Sodium chloride 0,9%/500ml -317",
+    "DVT": "Chai",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665635,
+    "TenDP": "Diazepam 10mg/2ml-335",
+    "DVT": "Ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323665636,
+    "TenDP": "Seduxen 5mg 5mg -317",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665637,
+    "TenDP": "Adrenalin 1mg/1ml -806",
+    "DVT": "Ông",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665638,
+    "TenDP": "Adrenalin 1mg/1ml(*)",
+    "DVT": "Ông",
+    "TonHT": 40
+  },
+  {
+    "id": 1768323665639,
+    "TenDP": "Diaphyllin Venosum 240mg(*)",
+    "DVT": "Ông",
+    "TonHT": 3
+  },
+  {
+    "id": 1768323665640,
+    "TenDP": "Dimedrol 10mg/1ml(*)",
+    "DVT": "ống",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323665641,
+    "TenDP": "Glucose 30% 1.5g/5ml(*)",
+    "DVT": "ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665642,
+    "TenDP": "Medcelore Injection 40mg -317",
+    "DVT": "Lọ",
+    "TonHT": 8
+  },
+  {
+    "id": 1768323665643,
+    "TenDP": "No-Spa 40mg/2ml - 1239",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665644,
+    "TenDP": "Nước cất tiêm 5ml(*)",
+    "DVT": "ống",
+    "TonHT": 24
+  },
+  {
+    "id": 1768323665645,
+    "TenDP": "Potassium Chloride 1g/10ml(*)",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665646,
+    "TenDP": "Vintanil 500 500mg -317",
+    "DVT": "Lọ",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665647,
+    "TenDP": "Vinterlin 0,5mg/1ml(*)",
+    "DVT": "Ống",
+    "TonHT": 3
+  },
+  {
+    "id": 1768323665648,
+    "TenDP": "Vitamin K1 10mg/1ml(*)",
+    "DVT": "ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665649,
+    "TenDP": "Betaloc Zok 25mg 23,75mg-1151",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665650,
+    "TenDP": "Bilaxten 20mg -285",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665651,
+    "TenDP": "Exforge 5mg/80mg (*).",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665652,
+    "TenDP": "PARTAMOL TAB. 500mg 335",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665653,
+    "TenDP": "PLAVIX 75mg *",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665654,
+    "TenDP": "Vinzix 40mg -1239",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665655,
+    "TenDP": "Sodium chloride 0,9%/500ml -317",
+    "DVT": "Chai",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323665656,
+    "TenDP": "Seduxen 5mg 5mg -317",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665657,
+    "TenDP": "Adrenalin 1mg/1ml -806",
+    "DVT": "Ông",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665658,
+    "TenDP": "Adrenaline-BFS 5mg/5ml -317",
+    "DVT": "Lọ",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665659,
+    "TenDP": "Dimedrol 10mg/ml -317",
+    "DVT": "ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665660,
+    "TenDP": "Nước cất tiêm 5ml(*)",
+    "DVT": "ống",
+    "TonHT": 12
+  },
+  {
+    "id": 1768323665661,
+    "TenDP": "Pdsolone-40mg-1239",
+    "DVT": "Lọ",
+    "TonHT": 6
+  },
+  {
+    "id": 1768323665662,
+    "TenDP": "Betahistin 24 A.T 24 mg -1239",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665663,
+    "TenDP": "Exforge 5mg + 80mg -1151",
+    "DVT": "Viên",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665664,
+    "TenDP": "PARTAMOL TAB. 500mg 335",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665665,
+    "TenDP": "GLUCOSE 20%/100ml/500ml-317",
+    "DVT": "Chai",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665666,
+    "TenDP": "Lactated Ringers 500ml -317",
+    "DVT": "chai",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665667,
+    "TenDP": "Mannitol 20% x 250ml 335",
+    "DVT": "Chai",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665668,
+    "TenDP": "Sodium chloride 0,9%/500ml -317",
+    "DVT": "Chai",
+    "TonHT": 40
+  },
+  {
+    "id": 1768323665669,
+    "TenDP": "Meronem 1000mg -285",
+    "DVT": "Lọ",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665670,
+    "TenDP": "Vancomycin 1g 1g -317",
+    "DVT": "Lọ",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665671,
+    "TenDP": "Diazepam 10mg/2ml-335",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665672,
+    "TenDP": "Midazolam B. Braun 5mg/ml-1239",
+    "DVT": "Ống",
+    "TonHT": 50
+  },
+  {
+    "id": 1768323665673,
+    "TenDP": "Seduxen 5mg 5mg -317",
+    "DVT": "Viên",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323665674,
+    "TenDP": "A.T Nitroglycerin inj 10mg 335",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665675,
+    "TenDP": "Actilyse 50mg",
+    "DVT": "Lọ",
+    "TonHT": 4
+  },
+  {
+    "id": 1768323665676,
+    "TenDP": "Adrenalin 1mg/1ml -806",
+    "DVT": "Ông",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665677,
+    "TenDP": "Adrenalin 1mg/1ml(*)",
+    "DVT": "Ông",
+    "TonHT": 40
+  },
+  {
+    "id": 1768323665678,
+    "TenDP": "Adrenaline-BFS 5mg/5ml -317",
+    "DVT": "Lọ",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323665679,
+    "TenDP": "Aharon 150 mg/3 ml - 335",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665680,
+    "TenDP": "BFS-Noradrenaline 10mg -335",
+    "DVT": "Lọ",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665681,
+    "TenDP": "Calci clorid 500mg/ 5ml -335",
+    "DVT": "ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665682,
+    "TenDP": "Digoxin-BFS 0,25mg -1239",
+    "DVT": "Lọ",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665683,
+    "TenDP": "Dimedrol 10mg/ml -317",
+    "DVT": "ống",
+    "TonHT": 50
+  },
+  {
+    "id": 1768323665684,
+    "TenDP": "Dobutamin - BFS 250mg/5ml -317",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665685,
+    "TenDP": "Glucose 30% 1,5g/5ml -317",
+    "DVT": "ống",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323665686,
+    "TenDP": "Haemostop 100mg/ml -317",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665687,
+    "TenDP": "Lovenox-40mg/0,4ml",
+    "DVT": "Bơm tiêm",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665688,
+    "TenDP": "Medcelore Injection 40mg -317",
+    "DVT": "Lọ",
+    "TonHT": 25
+  },
+  {
+    "id": 1768323665689,
+    "TenDP": "Nicardipine Aguettant 10mg/10ml -317",
+    "DVT": "Ống",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323665690,
+    "TenDP": "Nước cất pha tiêm 5ml",
+    "DVT": "ống",
+    "TonHT": 48
+  },
+  {
+    "id": 1768323665691,
+    "TenDP": "Nước cất tiêm 5ml-806",
+    "DVT": "ống",
+    "TonHT": 12
+  },
+  {
+    "id": 1768323665692,
+    "TenDP": "Omeprazole Normon  40mg- 52",
+    "DVT": "Lọ",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665693,
+    "TenDP": "Panangin-400mg+452mg(*)",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665694,
+    "TenDP": "Potassium Chloride 1g/10ml(*)",
+    "DVT": "Ống",
+    "TonHT": 15
+  },
+  {
+    "id": 1768323665695,
+    "TenDP": "Pulmicort Respules 500mcg/2ml 285",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665696,
+    "TenDP": "Takizd 20mg/2ml -1239",
+    "DVT": "Ống",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323665697,
+    "TenDP": "VIATRINIL 3mg/3ml -317",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665698,
+    "TenDP": "Vinfadin V20 20mg -317",
+    "DVT": "Lọ",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665699,
+    "TenDP": "Vinphyton 10mg 10mg/1ml -1239",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665700,
+    "TenDP": "Vinsalpium (2,5mg+0,5mg)/2,5ml -1239",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665701,
+    "TenDP": "Vinterlin 0,5mg/ml -806",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665702,
+    "TenDP": "Atropin sulfat 0,25mg/1ml -317",
+    "DVT": "Ống",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323665703,
+    "TenDP": "Aubein 25mg/2.5ml -317",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665704,
+    "TenDP": "Fresofol 1% Mct/Lct 1% (10mg/ml) -317",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665705,
+    "TenDP": "Sodium Valproate Aguettant 400mg/4ml 335",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665706,
+    "TenDP": "Aspirin tab DWP 75mg 75mg -317",
+    "DVT": "Viên",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323665707,
+    "TenDP": "Bilaxten 20mg -285",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665708,
+    "TenDP": "Exforge HCT 5mg/160mg/12.5mg -758",
+    "DVT": "Viên",
+    "TonHT": 14
+  },
+  {
+    "id": 1768323665709,
+    "TenDP": "PARTAMOL TAB. 500mg 335",
+    "DVT": "Viên",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323665710,
+    "TenDP": "PLAVIX 75mg *",
+    "DVT": "Viên",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323665711,
+    "TenDP": "Adrenalin 1mg/1ml -1239",
+    "DVT": "Ông",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665712,
+    "TenDP": "Dimedrol 10mg/ml",
+    "DVT": "ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665713,
+    "TenDP": "Nước cất pha tiêm 5ml",
+    "DVT": "ống",
+    "TonHT": 6
+  },
+  {
+    "id": 1768323665714,
+    "TenDP": "Vinsolon(*)",
+    "DVT": "Ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323665715,
+    "TenDP": "Gelofusine (20g+3,505g+ 0,68g/500ml-1239",
+    "DVT": "Chai",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665716,
+    "TenDP": "GLUCOSE 20%/100ml/500ml-317",
+    "DVT": "Chai",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665717,
+    "TenDP": "Lactated Ringers 500ml -317",
+    "DVT": "chai",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665718,
+    "TenDP": "Mannitol 20% x 250ml 335",
+    "DVT": "Chai",
+    "TonHT": 4
+  },
+  {
+    "id": 1768323665719,
+    "TenDP": "NATRI BICARBONAT 1,4% 3,5g/250ml -317",
+    "DVT": "Chai",
+    "TonHT": 4
+  },
+  {
+    "id": 1768323665720,
+    "TenDP": "Sodium chloride 0,9%/500ml -317",
+    "DVT": "Chai",
+    "TonHT": 34
+  },
+  {
+    "id": 1768323665721,
+    "TenDP": "Diazepam 10mg/2ml-335",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665722,
+    "TenDP": "Midazolam B. Braun 5mg/ml-1239",
+    "DVT": "Ống",
+    "TonHT": 100
+  },
+  {
+    "id": 1768323665723,
+    "TenDP": "Seduxen 5mg 5mg -317",
+    "DVT": "Viên",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323665724,
+    "TenDP": "A.T Nitroglycerin inj 10mg 335",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665725,
+    "TenDP": "Adrenalin 1mg/1ml -1239",
+    "DVT": "Ông",
+    "TonHT": 100
+  },
+  {
+    "id": 1768323665726,
+    "TenDP": "Adrenaline-BFS 5mg 1239",
+    "DVT": "Lọ",
+    "TonHT": 70
+  },
+  {
+    "id": 1768323665727,
+    "TenDP": "BFS-Noradrenaline 10mg -335",
+    "DVT": "Lọ",
+    "TonHT": 30
+  },
+  {
+    "id": 1768323665728,
+    "TenDP": "Calci clorid 500mg/ 5ml -335",
+    "DVT": "ống",
+    "TonHT": 15
+  },
+  {
+    "id": 1768323665729,
+    "TenDP": "Dimedrol 10mg/1ml(*)",
+    "DVT": "ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665730,
+    "TenDP": "Dimedrol 10mg/ml -317",
+    "DVT": "ống",
+    "TonHT": 100
+  },
+  {
+    "id": 1768323665731,
+    "TenDP": "Dobutamin - BFS 250mg/5ml -317",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665732,
+    "TenDP": "Glucose 30% 1,5g/5ml -317",
+    "DVT": "ống",
+    "TonHT": 70
+  },
+  {
+    "id": 1768323665733,
+    "TenDP": "Haemostop 100mg/ml -317",
+    "DVT": "Ống",
+    "TonHT": 8
+  },
+  {
+    "id": 1768323665734,
+    "TenDP": "Lovenox-40mg/0,4ml",
+    "DVT": "Bơm tiêm",
+    "TonHT": 4
+  },
+  {
+    "id": 1768323665735,
+    "TenDP": "Magnesi sulfat Kabi 15%/10ml(*)",
+    "DVT": "ống",
+    "TonHT": 12
+  },
+  {
+    "id": 1768323665736,
+    "TenDP": "Medcelore Injection 40mg -317",
+    "DVT": "Lọ",
+    "TonHT": 64
+  },
+  {
+    "id": 1768323665737,
+    "TenDP": "Nước cất tiêm 5ml(*)",
+    "DVT": "ống",
+    "TonHT": 126
+  },
+  {
+    "id": 1768323665738,
+    "TenDP": "Panangin-400mg+452mg(*)",
+    "DVT": "Ống",
+    "TonHT": 8
+  },
+  {
+    "id": 1768323665739,
+    "TenDP": "Potassium Chloride 1g/10ml(*)",
+    "DVT": "Ống",
+    "TonHT": 30
+  },
+  {
+    "id": 1768323665740,
+    "TenDP": "Takizd 20mg/2ml -1239",
+    "DVT": "Ống",
+    "TonHT": 100
+  },
+  {
+    "id": 1768323665741,
+    "TenDP": "Vincynon 500mg/4ml - 335",
+    "DVT": "Ống",
+    "TonHT": 8
+  },
+  {
+    "id": 1768323665742,
+    "TenDP": "Vinphyton 10mg 10mg/1ml -1239",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665743,
+    "TenDP": "Vinterlin 0,5mg/ml -806",
+    "DVT": "Ống",
+    "TonHT": 50
+  },
+  {
+    "id": 1768323665744,
+    "TenDP": "Zensalbu nebules 5.0 5mg -335",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665745,
+    "TenDP": "Atropin sulfat 0,25mg/1ml -317",
+    "DVT": "Ống",
+    "TonHT": 65
+  },
+  {
+    "id": 1768323665746,
+    "TenDP": "Aubein 25mg/2.5ml -317",
+    "DVT": "Ống",
+    "TonHT": 30
+  },
+  {
+    "id": 1768323665747,
+    "TenDP": "BFS-Neostigmine 0,25mg/ml(*)",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665748,
+    "TenDP": "Fresofol 1% Mct/Lct 1% (10mg/ml) -317",
+    "DVT": "Ống",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323665749,
+    "TenDP": "Aspirin tab DWP 75mg 75mg -317",
+    "DVT": "Viên",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665750,
+    "TenDP": "PLAVIX 75mg *",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665751,
+    "TenDP": "GLUCOSE 20%/100ml/500ml-317",
+    "DVT": "Chai",
+    "TonHT": 13
+  },
+  {
+    "id": 1768323665752,
+    "TenDP": "Lactated Ringers 500ml -317",
+    "DVT": "chai",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665753,
+    "TenDP": "Mannitol 20% x 250ml 335",
+    "DVT": "Chai",
+    "TonHT": 4
+  },
+  {
+    "id": 1768323665754,
+    "TenDP": "NATRI BICARBONAT 1,4% 3,5g/250ml -317",
+    "DVT": "Chai",
+    "TonHT": 6
+  },
+  {
+    "id": 1768323665755,
+    "TenDP": "Sodium chloride 0,9%/500ml -317",
+    "DVT": "Chai",
+    "TonHT": 13
+  },
+  {
+    "id": 1768323665756,
+    "TenDP": "Midazolam B. Braun 5mg/ml-1239",
+    "DVT": "Ống",
+    "TonHT": 100
+  },
+  {
+    "id": 1768323665757,
+    "TenDP": "A.T Nitroglycerin inj 10mg 335",
+    "DVT": "Ống",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323665758,
+    "TenDP": "Actilyse 50mg**.",
+    "DVT": "Lọ",
+    "TonHT": 1
+  },
+  {
+    "id": 1768323665759,
+    "TenDP": "Adrenaline-BFS 5mg/5ml -317",
+    "DVT": "Lọ",
+    "TonHT": 50
+  },
+  {
+    "id": 1768323665760,
+    "TenDP": "BFS-Noradrenaline 10mg -335",
+    "DVT": "Lọ",
+    "TonHT": 30
+  },
+  {
+    "id": 1768323665761,
+    "TenDP": "Bridion 100mg/ml, 2ml -1151",
+    "DVT": "Lọ",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323665762,
+    "TenDP": "Cordarone 150mg/ 3ml -335",
+    "DVT": "Ống",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323665763,
+    "TenDP": "Digoxin-BFS 0,25mg/ 1ml -317",
+    "DVT": "Lọ",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665764,
+    "TenDP": "Glucose 30% 1,5g/5ml -317",
+    "DVT": "ống",
+    "TonHT": 70
+  },
+  {
+    "id": 1768323665765,
+    "TenDP": "Hantacid 10ml-317",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665766,
+    "TenDP": "Lidocain 10% 38g -1239",
+    "DVT": "lọ",
+    "TonHT": 3
+  },
+  {
+    "id": 1768323665767,
+    "TenDP": "Lovenox-40mg/0,4ml",
+    "DVT": "Bơm tiêm",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665768,
+    "TenDP": "Magnesi sulfat Kabi 15%/10ml(*)",
+    "DVT": "ống",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323665769,
+    "TenDP": "Medcelore Injection 40mg -317",
+    "DVT": "Lọ",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323665770,
+    "TenDP": "Nicardipine Aguettant 10mg/10ml -317",
+    "DVT": "Ống",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323665771,
+    "TenDP": "Nước cất pha tiêm 5ml-1239",
+    "DVT": "ống",
+    "TonHT": 6
+  },
+  {
+    "id": 1768323665772,
+    "TenDP": "Nước cất tiêm 5ml(*)",
+    "DVT": "ống",
+    "TonHT": 24
+  },
+  {
+    "id": 1768323665773,
+    "TenDP": "Panangin-400mg+452mg(*)",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665774,
+    "TenDP": "Paringold Injection 25000IU/5ml 1239",
+    "DVT": "Lọ",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665775,
+    "TenDP": "Potassium Chloride 1g/10ml(*)",
+    "DVT": "Ống",
+    "TonHT": 55
+  },
+  {
+    "id": 1768323665776,
+    "TenDP": "Pulmicort Respules 500mcg/2ml 285",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665777,
+    "TenDP": "Takizd 20mg/2ml -1239",
+    "DVT": "Ống",
+    "TonHT": 100
+  },
+  {
+    "id": 1768323665778,
+    "TenDP": "Vincynon 500mg/4ml - 335",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665779,
+    "TenDP": "Vinfadin V20 20mg -317",
+    "DVT": "Lọ",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665780,
+    "TenDP": "Vinphyton 10mg 10mg/1ml -1239",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665781,
+    "TenDP": "Vinterlin 0,5mg/ml -1239",
+    "DVT": "Ống",
+    "TonHT": 60
+  },
+  {
+    "id": 1768323665782,
+    "TenDP": "BFS-Neostigmine 0,25mg/ml(*)",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665783,
+    "TenDP": "Fresofol 1% Mct/Lct 1% (10mg/ml) -317",
+    "DVT": "Ống",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323665784,
+    "TenDP": "Gelofusine (20g+3,505g+ 0,68g/500ml-1239",
+    "DVT": "Chai",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323665785,
+    "TenDP": "GLUCOSE 20%/100ml/500ml-317",
+    "DVT": "Chai",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665786,
+    "TenDP": "Lactated Ringers 500ml -317",
+    "DVT": "chai",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665787,
+    "TenDP": "NATRI BICARBONAT 1,4% 3,5g/250ml -317",
+    "DVT": "Chai",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323665788,
+    "TenDP": "Sodium chloride 0,9%/500ml -317",
+    "DVT": "Chai",
+    "TonHT": 30
+  },
+  {
+    "id": 1768323665789,
+    "TenDP": "Cefotiam 1 g 1g -335",
+    "DVT": "Lọ",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665790,
+    "TenDP": "Fullgram Injection 600mg/4ml-317",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665791,
+    "TenDP": "Syntarpen 1g -335",
+    "DVT": "Lọ",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665792,
+    "TenDP": "Thinmcz-2000 2g -335",
+    "DVT": "Lọ",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665793,
+    "TenDP": "Vicimadol 2g 2g -317",
+    "DVT": "Lọ",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665794,
+    "TenDP": "Vinphacine 250 250mg/2ml -317",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665795,
+    "TenDP": "Zinhepa Inj. 1g -317",
+    "DVT": "Lọ",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665796,
+    "TenDP": "Ephedrine Aguettant 30mg/10ml -335",
+    "DVT": "Bơm",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323665797,
+    "TenDP": "Midazolam B. Braun 5mg/ml-1239",
+    "DVT": "Ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323665798,
+    "TenDP": "BFS-Noradrenaline 10mg -335",
+    "DVT": "Lọ",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665799,
+    "TenDP": "Dexamethasone 4mg/1ml -1239",
+    "DVT": "Ông",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665800,
+    "TenDP": "Dimedrol 10mg/1ml(*)",
+    "DVT": "ống",
+    "TonHT": 25
+  },
+  {
+    "id": 1768323665801,
+    "TenDP": "Lidocain hydroclorid  40mg/2ml -1239",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665802,
+    "TenDP": "Medcelore Injection 40mg -317",
+    "DVT": "Lọ",
+    "TonHT": 13
+  },
+  {
+    "id": 1768323665803,
+    "TenDP": "Nước cất tiêm 5ml(*)",
+    "DVT": "ống",
+    "TonHT": 24
+  },
+  {
+    "id": 1768323665804,
+    "TenDP": "Potassium Chloride 1g/10ml(*)",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665805,
+    "TenDP": "Takizd 20mg/2ml -1239",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665806,
+    "TenDP": "Vincardipin 10mg/10ml -1239",
+    "DVT": "Ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323665807,
+    "TenDP": "Vinterlin 0,5mg/ml -806",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665808,
+    "TenDP": "Voltaren 75mg/3ml - 758",
+    "DVT": "ống",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323665809,
+    "TenDP": "Atropin sulfat 0,25mg/1ml -317",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665810,
+    "TenDP": "BFS-Neostigmine 0,25mg/ml(*)",
+    "DVT": "Ống",
+    "TonHT": 4
+  },
+  {
+    "id": 1768323665811,
+    "TenDP": "Fresofol 1% Mct/Lct 1% (10mg/ml) -317",
+    "DVT": "Ống",
+    "TonHT": 1
+  },
+  {
+    "id": 1768323665812,
+    "TenDP": "Levobupi-BFS 50 mg 50mg/10ml -317",
+    "DVT": "Lọ",
+    "TonHT": 30
+  },
+  {
+    "id": 1768323665813,
+    "TenDP": "Gelofusine (20g+3,505g+ 0,68g/500ml-1239",
+    "DVT": "Chai",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323665814,
+    "TenDP": "GLUCOSE 20%/100ml/500ml-317",
+    "DVT": "Chai",
+    "TonHT": 9
+  },
+  {
+    "id": 1768323665815,
+    "TenDP": "Mannitol 20% x 250ml 335",
+    "DVT": "Chai",
+    "TonHT": 4
+  },
+  {
+    "id": 1768323665816,
+    "TenDP": "NATRI BICARBONAT 1,4% 3,5g/250ml -317",
+    "DVT": "Chai",
+    "TonHT": 4
+  },
+  {
+    "id": 1768323665817,
+    "TenDP": "Sodium chloride 0,9%/500ml -317",
+    "DVT": "Chai",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323665818,
+    "TenDP": "Diazepam 10mg/2ml-335",
+    "DVT": "Ống",
+    "TonHT": 11
+  },
+  {
+    "id": 1768323665819,
+    "TenDP": "Midazolam B. Braun 5mg/ml-1239",
+    "DVT": "Ống",
+    "TonHT": 40
+  },
+  {
+    "id": 1768323665820,
+    "TenDP": "Seduxen 5mg 5mg -317",
+    "DVT": "Viên",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323665821,
+    "TenDP": "Adrenaline-BFS 5mg/5ml -317",
+    "DVT": "Lọ",
+    "TonHT": 15
+  },
+  {
+    "id": 1768323665822,
+    "TenDP": "Dexamethasone 4mg/1ml -1239",
+    "DVT": "Ông",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665823,
+    "TenDP": "Dimedrol 10mg/ml -1239",
+    "DVT": "ống",
+    "TonHT": 35
+  },
+  {
+    "id": 1768323665824,
+    "TenDP": "Glucose 30% 1,5g/5ml -317",
+    "DVT": "ống",
+    "TonHT": 30
+  },
+  {
+    "id": 1768323665825,
+    "TenDP": "Nước cất tiêm 5ml(*)",
+    "DVT": "ống",
+    "TonHT": 52
+  },
+  {
+    "id": 1768323665826,
+    "TenDP": "Pdsolone-40mg-1239",
+    "DVT": "Lọ",
+    "TonHT": 23
+  },
+  {
+    "id": 1768323665827,
+    "TenDP": "Potassium Chloride 1g/10ml(*)",
+    "DVT": "Ống",
+    "TonHT": 15
+  },
+  {
+    "id": 1768323665828,
+    "TenDP": "Rabeloc I.V. 20mg 335",
+    "DVT": "Lọ",
+    "TonHT": 6
+  },
+  {
+    "id": 1768323665829,
+    "TenDP": "Takizd 20mg/2ml -1239",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665830,
+    "TenDP": "Vincynon 500mg/4ml - 335",
+    "DVT": "Ống",
+    "TonHT": 15
+  },
+  {
+    "id": 1768323665831,
+    "TenDP": "Atropin sulfat 0,25mg/1ml -317",
+    "DVT": "Ống",
+    "TonHT": 15
+  },
+  {
+    "id": 1768323665832,
+    "TenDP": "Bilaxten 20mg -285",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665833,
+    "TenDP": "Kavasdin 5 -77",
+    "DVT": "Viên",
+    "TonHT": 15
+  },
+  {
+    "id": 1768323665834,
+    "TenDP": "Gelofusine (20g+3,505g+ 0,68g/500ml-1239",
+    "DVT": "Chai",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665835,
+    "TenDP": "GLUCOSE 20%/100ml/500ml-317",
+    "DVT": "Chai",
+    "TonHT": 7
+  },
+  {
+    "id": 1768323665836,
+    "TenDP": "Lactated Ringers 500ml -317",
+    "DVT": "chai",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323665837,
+    "TenDP": "Mannitol 20% x 250ml 335",
+    "DVT": "Chai",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665838,
+    "TenDP": "NATRI BICARBONAT 1,4% 3,5g/250ml -317",
+    "DVT": "Chai",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323665839,
+    "TenDP": "Sodium chloride 0,9%/500ml -317",
+    "DVT": "Chai",
+    "TonHT": 42
+  },
+  {
+    "id": 1768323665840,
+    "TenDP": "Cefotiam 1 g 1g -335",
+    "DVT": "Lọ",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665841,
+    "TenDP": "Tenafotin 2000 2g -317",
+    "DVT": "Lọ",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665842,
+    "TenDP": "Vicimadol 2g 2g -317",
+    "DVT": "Lọ",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665843,
+    "TenDP": "Zinhepa Inj. 1g -317",
+    "DVT": "Lọ",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665844,
+    "TenDP": "Diazepam 10mg/2ml-335",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665845,
+    "TenDP": "Ephedrine Aguettant 30mg/10ml -335",
+    "DVT": "Bơm",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323665846,
+    "TenDP": "Midazolam B. Braun 5mg/ml-1239",
+    "DVT": "Ống",
+    "TonHT": 100
+  },
+  {
+    "id": 1768323665847,
+    "TenDP": "Seduxen 5mg 5mg -317",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665848,
+    "TenDP": "Adrenalin 1mg/1ml -806",
+    "DVT": "Ông",
+    "TonHT": 45
+  },
+  {
+    "id": 1768323665849,
+    "TenDP": "Adrenaline-BFS 5mg/5ml -317",
+    "DVT": "Lọ",
+    "TonHT": 60
+  },
+  {
+    "id": 1768323665850,
+    "TenDP": "Calci clorid 500mg/ 5ml -335",
+    "DVT": "ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665851,
+    "TenDP": "Dexamethasone 4mg/1ml -1239",
+    "DVT": "Ông",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665852,
+    "TenDP": "Digoxin-BFS 0,25mg/ 1ml -317",
+    "DVT": "Lọ",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323665853,
+    "TenDP": "Dimedrol 10mg/ml -317",
+    "DVT": "ống",
+    "TonHT": 50
+  },
+  {
+    "id": 1768323665854,
+    "TenDP": "Dobutamin - BFS 250mg/5ml -317",
+    "DVT": "Ống",
+    "TonHT": 7
+  },
+  {
+    "id": 1768323665855,
+    "TenDP": "Glucose 30% 1,5g/5ml -317",
+    "DVT": "ống",
+    "TonHT": 30
+  },
+  {
+    "id": 1768323665856,
+    "TenDP": "Haemostop 100mg/ml -317",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665857,
+    "TenDP": "Lovenox-40mg/0,4ml",
+    "DVT": "Bơm tiêm",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323665858,
+    "TenDP": "Medcelore Injection 40mg -317",
+    "DVT": "Lọ",
+    "TonHT": 32
+  },
+  {
+    "id": 1768323665859,
+    "TenDP": "Nicardipine Aguettant 10mg/10ml -317",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665860,
+    "TenDP": "Noradrenaline BaseAguettant 4mg/4ml-335",
+    "DVT": "Ống",
+    "TonHT": 100
+  },
+  {
+    "id": 1768323665861,
+    "TenDP": "Nước cất tiêm 5ml(*)",
+    "DVT": "ống",
+    "TonHT": 54
+  },
+  {
+    "id": 1768323665862,
+    "TenDP": "Potassium Chloride 1g/10ml(*)",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665863,
+    "TenDP": "Takizd 20mg/2ml -1239",
+    "DVT": "Ống",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323665864,
+    "TenDP": "Trinitrina 5mg/1,5ml -317",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665865,
+    "TenDP": "Vincynon 500mg/4ml - 335",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665866,
+    "TenDP": "Vinfadin V20 20mg -317",
+    "DVT": "Lọ",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665867,
+    "TenDP": "Vinphyton 10mg 10mg/1ml -1239",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665868,
+    "TenDP": "Vinterlin 0,5mg/ml -806",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665869,
+    "TenDP": "Atropin sulfat 0,25mg/1ml -317",
+    "DVT": "Ống",
+    "TonHT": 25
+  },
+  {
+    "id": 1768323665870,
+    "TenDP": "Aubein 25mg/2.5ml -317",
+    "DVT": "Ống",
+    "TonHT": 100
+  },
+  {
+    "id": 1768323665871,
+    "TenDP": "BFS-Neostigmine 0,25mg/ml(*)",
+    "DVT": "Ống",
+    "TonHT": 4
+  },
+  {
+    "id": 1768323665872,
+    "TenDP": "Diprivan 10mg/ml 758",
+    "DVT": "Ống",
+    "TonHT": 30
+  },
+  {
+    "id": 1768323665873,
+    "TenDP": "Adrenalin-BFS 1mg",
+    "DVT": "Ông",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323665874,
+    "TenDP": "Dimedrol 10mg/ml",
+    "DVT": "ống",
+    "TonHT": 15
+  },
+  {
+    "id": 1768323665875,
+    "TenDP": "Nước cất pha tiêm 5ml",
+    "DVT": "ống",
+    "TonHT": 12
+  },
+  {
+    "id": 1768323665876,
+    "TenDP": "Adrenalin 1mg/1ml(*)",
+    "DVT": "Ông",
+    "TonHT": 27
+  },
+  {
+    "id": 1768323665877,
+    "TenDP": "Dimedrol 10mg/1ml(*)",
+    "DVT": "ống",
+    "TonHT": 25
+  },
+  {
+    "id": 1768323665878,
+    "TenDP": "Nước cất tiêm 5ml(*)",
+    "DVT": "ống",
+    "TonHT": 30
+  },
+  {
+    "id": 1768323665879,
+    "TenDP": "Vinsolon(*)",
+    "DVT": "Ống",
+    "TonHT": 14
+  },
+  {
+    "id": 1768323665880,
+    "TenDP": "Vintanil 500mg(*)",
+    "DVT": "Ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323665881,
+    "TenDP": "Vinzix 20mg/2ml -806",
+    "DVT": "Ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323665882,
+    "TenDP": "Voltaren 75mg/3ml**.",
+    "DVT": "ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323665883,
+    "TenDP": "Adrenalin 1mg/1ml -806",
+    "DVT": "Ông",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665884,
+    "TenDP": "Combivent (2,5mg+0,5mg)/ml**.",
+    "DVT": "ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323665885,
+    "TenDP": "Dimedrol 10mg/1ml(*)",
+    "DVT": "ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665886,
+    "TenDP": "Nước cất tiêm 5ml(*)",
+    "DVT": "ống",
+    "TonHT": 6
+  },
+  {
+    "id": 1768323665887,
+    "TenDP": "Pdsolone-40mg-1239",
+    "DVT": "Lọ",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323665888,
+    "TenDP": "Pulmicort respules 500mcg/2ml**.",
+    "DVT": "Ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323665889,
+    "TenDP": "Ventolin Inhaler 100mcg/liều xịt**.",
+    "DVT": "Bình",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323665890,
+    "TenDP": "Vinterlin 0,5mg/1ml(*)",
+    "DVT": "Ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323665891,
+    "TenDP": "Adrenalin 1mg/1ml(*)",
+    "DVT": "Ông",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665892,
+    "TenDP": "Dimedrol 10mg/ml",
+    "DVT": "ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665893,
+    "TenDP": "Gelofusine (20g+3,505g+ 0,68g/500ml-1239",
+    "DVT": "Chai",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323665894,
+    "TenDP": "Lactated Ringers 500ml -317",
+    "DVT": "chai",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665895,
+    "TenDP": "NATRI BICARBONAT 1,4% 3,5g/250ml -317",
+    "DVT": "Chai",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323665896,
+    "TenDP": "Sodium Chloride 0,9%/250ml -317",
+    "DVT": "Chai",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323665897,
+    "TenDP": "Sodium chloride 0,9%/500ml -317",
+    "DVT": "Chai",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323665898,
+    "TenDP": "Bidicarlin 3,2g 3g + 0,2g -317",
+    "DVT": "Lọ",
+    "TonHT": 15
+  },
+  {
+    "id": 1768323665899,
+    "TenDP": "Cefoxitine Gerda 1g 1g -335",
+    "DVT": "Lọ",
+    "TonHT": 15
+  },
+  {
+    "id": 1768323665900,
+    "TenDP": "Mizapenem 1g 1g -335",
+    "DVT": "Lọ",
+    "TonHT": 15
+  },
+  {
+    "id": 1768323665901,
+    "TenDP": "Ofloxacin 200mg/40ml 200mg -335",
+    "DVT": "Lọ",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665902,
+    "TenDP": "Trafucef-S 2g 1g + 1g -317",
+    "DVT": "Lọ",
+    "TonHT": 15
+  },
+  {
+    "id": 1768323665903,
+    "TenDP": "Diazepam 10mg/2ml-335",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665904,
+    "TenDP": "Seduxen 5mg 5mg -317",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665905,
+    "TenDP": "A.T Nitroglycerin inj 10mg 335",
+    "DVT": "Ống",
+    "TonHT": 3
+  },
+  {
+    "id": 1768323665906,
+    "TenDP": "Adrenaline-BFS 5mg 1239",
+    "DVT": "Lọ",
+    "TonHT": 32
+  },
+  {
+    "id": 1768323665907,
+    "TenDP": "Calci clorid 500mg/ 5ml -335",
+    "DVT": "ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665908,
+    "TenDP": "Cordarone 150mg/ 3ml -335",
+    "DVT": "Ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323665909,
+    "TenDP": "Digoxin-BFS 0,25mg/ 1ml -317",
+    "DVT": "Lọ",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323665910,
+    "TenDP": "Dimedrol 10mg/ml -317",
+    "DVT": "ống",
+    "TonHT": 40
+  },
+  {
+    "id": 1768323665911,
+    "TenDP": "Dobutamin - BFS 250mg/5ml -317",
+    "DVT": "Ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323665912,
+    "TenDP": "Medcelore Injection 40mg -317",
+    "DVT": "Lọ",
+    "TonHT": 21
+  },
+  {
+    "id": 1768323665913,
+    "TenDP": "Nicardipine Aguettant 10mg/10ml -317",
+    "DVT": "Ống",
+    "TonHT": 4
+  },
+  {
+    "id": 1768323665914,
+    "TenDP": "Noradrenaline BaseAguettant 4mg/4ml-335",
+    "DVT": "Ống",
+    "TonHT": 4
+  },
+  {
+    "id": 1768323665915,
+    "TenDP": "No-Spa 40mg/2ml - 1239",
+    "DVT": "Ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323665916,
+    "TenDP": "Nước cất tiêm 5ml(*)",
+    "DVT": "ống",
+    "TonHT": 48
+  },
+  {
+    "id": 1768323665917,
+    "TenDP": "Panangin-400mg+452mg(*)",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665918,
+    "TenDP": "Potassium Chloride 1g/10ml(*)",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665919,
+    "TenDP": "Siutamid Injection 10mg/2ml -317",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665920,
+    "TenDP": "Takizd 20mg/2ml -1239",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665921,
+    "TenDP": "Vincynon 500mg/4ml - 335",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665922,
+    "TenDP": "Vinphyton 10mg 10mg/1ml -1239",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665923,
+    "TenDP": "Vintanil 500 500mg -317",
+    "DVT": "Lọ",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665924,
+    "TenDP": "Vinterlin 0,5mg/ml -806",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665925,
+    "TenDP": "Atropin sulfat 0,25mg/1ml -317",
+    "DVT": "Ống",
+    "TonHT": 30
+  },
+  {
+    "id": 1768323665926,
+    "TenDP": "Bilaxten 20mg -285",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665927,
+    "TenDP": "Mannitol 20% x 250ml 335",
+    "DVT": "Chai",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323665928,
+    "TenDP": "Natri clorid 0,9% 0,9%;500ml -1239",
+    "DVT": "Chai",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323665929,
+    "TenDP": "Sodium chloride 0,9%/500ml -317",
+    "DVT": "Chai",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323665930,
+    "TenDP": "Adrenalin 1mg/1ml(*)",
+    "DVT": "Ông",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323665931,
+    "TenDP": "Dimedrol 10mg/1ml(*)",
+    "DVT": "ống",
+    "TonHT": 15
+  },
+  {
+    "id": 1768323665932,
+    "TenDP": "Nước cất tiêm 5ml(*)",
+    "DVT": "ống",
+    "TonHT": 18
+  },
+  {
+    "id": 1768323665933,
+    "TenDP": "Pdsolone-40mg-1239",
+    "DVT": "Lọ",
+    "TonHT": 6
+  },
+  {
+    "id": 1768323665934,
+    "TenDP": "Kavasdin 5 -806",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665935,
+    "TenDP": "Gelofusine (20g+3,505g+ 0,68g/500ml-1239",
+    "DVT": "Chai",
+    "TonHT": 1
+  },
+  {
+    "id": 1768323665936,
+    "TenDP": "Lactated Ringers 500ml -317",
+    "DVT": "chai",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323665937,
+    "TenDP": "Smoflipid 20% /100ml -335",
+    "DVT": "Chai",
+    "TonHT": 1
+  },
+  {
+    "id": 1768323665938,
+    "TenDP": "Sodium chloride 0,9%/500ml -317",
+    "DVT": "Chai",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665939,
+    "TenDP": "IMERIXX 200 200mg -317",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665940,
+    "TenDP": "Sulfadiazin Bạc 1%/20g -317",
+    "DVT": "Tube",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323665941,
+    "TenDP": "Thinmcz-2000 2g -335",
+    "DVT": "Lọ",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665942,
+    "TenDP": "Diazepam 10mg/2ml-335",
+    "DVT": "Ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323665943,
+    "TenDP": "Seduxen 5mg 5mg -317",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665944,
+    "TenDP": "Adrenalin 1mg/1ml(*)",
+    "DVT": "Ông",
+    "TonHT": 50
+  },
+  {
+    "id": 1768323665945,
+    "TenDP": "Calci clorid 500mg/ 5ml -335",
+    "DVT": "ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665946,
+    "TenDP": "Dimedrol 10mg/1ml(*)",
+    "DVT": "ống",
+    "TonHT": 25
+  },
+  {
+    "id": 1768323665947,
+    "TenDP": "Glucose 30% 1,5g/5ml -317",
+    "DVT": "ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665948,
+    "TenDP": "Medcelore Injection 40mg -317",
+    "DVT": "Lọ",
+    "TonHT": 9
+  },
+  {
+    "id": 1768323665949,
+    "TenDP": "Nước cất tiêm 5ml(*)",
+    "DVT": "ống",
+    "TonHT": 62
+  },
+  {
+    "id": 1768323665950,
+    "TenDP": "Potassium Chloride 1g/10ml(*)",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665951,
+    "TenDP": "Takizd 20mg/2ml -1239",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665952,
+    "TenDP": "Ventolin Inhaler 100mcg/liều xịt**.",
+    "DVT": "Bình",
+    "TonHT": 1
+  },
+  {
+    "id": 1768323665953,
+    "TenDP": "Vinfadin V20 20mg -317",
+    "DVT": "Lọ",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323665954,
+    "TenDP": "Voltaren 75mg/3ml - 758",
+    "DVT": "ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665955,
+    "TenDP": "Atropin sulfat 0,25mg/1ml -317",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665956,
+    "TenDP": "Bilaxten 20mg -285",
+    "DVT": "Viên",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665957,
+    "TenDP": "Kalium chloratum biomedica 500mg -335",
+    "DVT": "Viên",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665958,
+    "TenDP": "PARTAMOL TAB. 500mg 335",
+    "DVT": "Viên",
+    "TonHT": 30
+  },
+  {
+    "id": 1768323665959,
+    "TenDP": "Gelofusine (20g+3,505g+ 0,68g/500ml-1239",
+    "DVT": "Chai",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323665960,
+    "TenDP": "Lactated Ringers 500ml -317",
+    "DVT": "chai",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665961,
+    "TenDP": "Sodium chloride 0,9%/500ml -317",
+    "DVT": "Chai",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665962,
+    "TenDP": "Seduxen 5mg 5mg -317",
+    "DVT": "Viên",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323665963,
+    "TenDP": "Medcelore Injection 40mg -317",
+    "DVT": "Lọ",
+    "TonHT": 34
+  },
+  {
+    "id": 1768323665964,
+    "TenDP": "Nước cất tiêm 5ml(*)",
+    "DVT": "ống",
+    "TonHT": 72
+  },
+  {
+    "id": 1768323665965,
+    "TenDP": "Potassium Chloride Proamp 1g/10ml -806",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665966,
+    "TenDP": "Takizd 20mg/2ml -1239",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665967,
+    "TenDP": "Vinterlin 0,5mg/ml -1239",
+    "DVT": "Ống",
+    "TonHT": 6
+  },
+  {
+    "id": 1768323665968,
+    "TenDP": "Voltaren 75mg/3ml**.",
+    "DVT": "ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665969,
+    "TenDP": "Bilaxten 20mg -285",
+    "DVT": "Viên",
+    "TonHT": 30
+  },
+  {
+    "id": 1768323665970,
+    "TenDP": "Kavasdin 5 -806",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665971,
+    "TenDP": "Pradaxa 110mg -1239",
+    "DVT": "Viên",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323665972,
+    "TenDP": "Pravastatin STELLA 10 mg 10mg -317",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665973,
+    "TenDP": "Voltaren 75mg -285",
+    "DVT": "Viên",
+    "TonHT": 60
+  },
+  {
+    "id": 1768323665974,
+    "TenDP": "Gelofusine (20g+3,505g+ 0,68g/500ml-1239",
+    "DVT": "Chai",
+    "TonHT": 1
+  },
+  {
+    "id": 1768323665975,
+    "TenDP": "Lactated Ringers 500ml -317",
+    "DVT": "chai",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665976,
+    "TenDP": "Sodium chloride 0,9%/500ml -317",
+    "DVT": "Chai",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665977,
+    "TenDP": "Diazepam 10mg/2ml-335",
+    "DVT": "Ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323665978,
+    "TenDP": "Seduxen 5mg 5mg -317",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665979,
+    "TenDP": "Acido Tranexamico Bioindust. 500mg-1239",
+    "DVT": "Ống",
+    "TonHT": 4
+  },
+  {
+    "id": 1768323665980,
+    "TenDP": "Adrenalin 1mg/1ml -806",
+    "DVT": "Ông",
+    "TonHT": 35
+  },
+  {
+    "id": 1768323665981,
+    "TenDP": "Calci clorid 500mg/ 5ml -335",
+    "DVT": "ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665982,
+    "TenDP": "Dimedrol 10mg/ml -317",
+    "DVT": "ống",
+    "TonHT": 38
+  },
+  {
+    "id": 1768323665983,
+    "TenDP": "Glucose 30% 1,5g/5ml -317",
+    "DVT": "ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665984,
+    "TenDP": "Medcelore Injection 40mg -317",
+    "DVT": "Lọ",
+    "TonHT": 14
+  },
+  {
+    "id": 1768323665985,
+    "TenDP": "Potassium Chloride 10%/10ml",
+    "DVT": "Ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323665986,
+    "TenDP": "Siutamid Injection 10mg/2ml -317",
+    "DVT": "Ống",
+    "TonHT": 3
+  },
+  {
+    "id": 1768323665987,
+    "TenDP": "Takizd 20mg/2ml -1239",
+    "DVT": "Ống",
+    "TonHT": 4
+  },
+  {
+    "id": 1768323665988,
+    "TenDP": "Vinfadin V20 20mg -317",
+    "DVT": "Lọ",
+    "TonHT": 4
+  },
+  {
+    "id": 1768323665989,
+    "TenDP": "Vinphyton 10mg 10mg/1ml -1239",
+    "DVT": "Ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323665990,
+    "TenDP": "Vinterlin 0,5mg/ml -806",
+    "DVT": "Ống",
+    "TonHT": 4
+  },
+  {
+    "id": 1768323665991,
+    "TenDP": "Kavasdin 5 -806",
+    "DVT": "Viên",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665992,
+    "TenDP": "PARTAMOL TAB. 500mg 335",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323665993,
+    "TenDP": "Xonatrix 60mg -1239",
+    "DVT": "Viên",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323665994,
+    "TenDP": "Gelofusine (20g+3,505g+ 0,68g/500ml-1239",
+    "DVT": "Chai",
+    "TonHT": 6
+  },
+  {
+    "id": 1768323665995,
+    "TenDP": "Lactated Ringers 500ml -317",
+    "DVT": "chai",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323665996,
+    "TenDP": "Sodium chloride 0,9%/500ml -317",
+    "DVT": "Chai",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323665997,
+    "TenDP": "Thinmcz-2000 2g -335",
+    "DVT": "Lọ",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323665998,
+    "TenDP": "Seduxen 5mg 5mg -317",
+    "DVT": "Viên",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323665999,
+    "TenDP": "Adrenalin 1mg/1ml -1239",
+    "DVT": "Ông",
+    "TonHT": 30
+  },
+  {
+    "id": 1768323666000,
+    "TenDP": "Adrenalin 1mg/1ml -806",
+    "DVT": "Ông",
+    "TonHT": 80
+  },
+  {
+    "id": 1768323666001,
+    "TenDP": "Dimedrol 10mg",
+    "DVT": "ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666002,
+    "TenDP": "Dimedrol 10mg/1ml(*)",
+    "DVT": "ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666003,
+    "TenDP": "Dimedrol 10mg/ml",
+    "DVT": "ống",
+    "TonHT": 35
+  },
+  {
+    "id": 1768323666004,
+    "TenDP": "Dimedrol 10mg/ml -1239",
+    "DVT": "ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666005,
+    "TenDP": "Glucose 30% 1.5g/5ml(*)",
+    "DVT": "ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666006,
+    "TenDP": "Glucose Kabi 30% 5ml",
+    "DVT": "ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666007,
+    "TenDP": "Nước cất tiêm 5ml(*)",
+    "DVT": "ống",
+    "TonHT": 48
+  },
+  {
+    "id": 1768323666008,
+    "TenDP": "Pdsolone-40mg-1239",
+    "DVT": "Lọ",
+    "TonHT": 22
+  },
+  {
+    "id": 1768323666009,
+    "TenDP": "Potassium Chloride 10%/10ml",
+    "DVT": "Ống",
+    "TonHT": 4
+  },
+  {
+    "id": 1768323666010,
+    "TenDP": "Potassium Chloride 1g/10ml(*)",
+    "DVT": "Ống",
+    "TonHT": 4
+  },
+  {
+    "id": 1768323666011,
+    "TenDP": "Vinphyton 10mg 10mg/1ml -1239",
+    "DVT": "Ống",
+    "TonHT": 40
+  },
+  {
+    "id": 1768323666012,
+    "TenDP": "Kavasdin 5 -806",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666013,
+    "TenDP": "Gelofusine (20g+3,505g+ 0,68g/500ml-1239",
+    "DVT": "Chai",
+    "TonHT": 4
+  },
+  {
+    "id": 1768323666014,
+    "TenDP": "Lactated Ringers 500ml -317",
+    "DVT": "chai",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666015,
+    "TenDP": "Sodium chloride 0,9%/500ml -317",
+    "DVT": "Chai",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666016,
+    "TenDP": "Diazepam 10mg/2ml-335",
+    "DVT": "Ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666017,
+    "TenDP": "Seduxen 5mg 5mg -317",
+    "DVT": "Viên",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666018,
+    "TenDP": "Adrenalin 1mg/1ml -806",
+    "DVT": "Ông",
+    "TonHT": 40
+  },
+  {
+    "id": 1768323666019,
+    "TenDP": "Adrenaline-BFS 5mg/5ml -317",
+    "DVT": "Lọ",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666020,
+    "TenDP": "Glucose 30% 1,5g/5ml -317",
+    "DVT": "ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666021,
+    "TenDP": "Medcelore Injection 40mg -317",
+    "DVT": "Lọ",
+    "TonHT": 24
+  },
+  {
+    "id": 1768323666022,
+    "TenDP": "No-Spa 40mg/2ml - 1239",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666023,
+    "TenDP": "Nước cất tiêm 5ml(*)",
+    "DVT": "ống",
+    "TonHT": 50
+  },
+  {
+    "id": 1768323666024,
+    "TenDP": "Potassium Chloride 1g/10ml(*)",
+    "DVT": "Ống",
+    "TonHT": 7
+  },
+  {
+    "id": 1768323666025,
+    "TenDP": "Takizd 20mg/2ml -1239",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666026,
+    "TenDP": "Vincynon 500mg/4ml - 335",
+    "DVT": "Ống",
+    "TonHT": 8
+  },
+  {
+    "id": 1768323666027,
+    "TenDP": "Vinphyton 10mg 10mg/1ml -1239",
+    "DVT": "Ống",
+    "TonHT": 4
+  },
+  {
+    "id": 1768323666028,
+    "TenDP": "Vinterlin 0,5mg/ml -806",
+    "DVT": "Ống",
+    "TonHT": 4
+  },
+  {
+    "id": 1768323666029,
+    "TenDP": "Voltaren 75mg/3ml - 758",
+    "DVT": "ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666030,
+    "TenDP": "Bilaxten 20mg -285",
+    "DVT": "Viên",
+    "TonHT": 12
+  },
+  {
+    "id": 1768323666031,
+    "TenDP": "PARTAMOL TAB. 500mg 335",
+    "DVT": "Viên",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666032,
+    "TenDP": "Voltaren 75mg -285",
+    "DVT": "Viên",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666033,
+    "TenDP": "Gelofusine (20g+3,505g+ 0,68g/500ml-1239",
+    "DVT": "Chai",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666034,
+    "TenDP": "Lactated Ringers 500ml -317",
+    "DVT": "chai",
+    "TonHT": 8
+  },
+  {
+    "id": 1768323666035,
+    "TenDP": "Mannitol 20% x 250ml 335",
+    "DVT": "Chai",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666036,
+    "TenDP": "Sodium Chloride 0,9%/100ml -317",
+    "DVT": "Chai",
+    "TonHT": 30
+  },
+  {
+    "id": 1768323666037,
+    "TenDP": "Sodium chloride 0,9%/500ml -317",
+    "DVT": "Chai",
+    "TonHT": 30
+  },
+  {
+    "id": 1768323666038,
+    "TenDP": "IMERIXX 200 200mg -317",
+    "DVT": "Viên",
+    "TonHT": 40
+  },
+  {
+    "id": 1768323666039,
+    "TenDP": "Tenafathin 1000 1g -317",
+    "DVT": "Lọ",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666040,
+    "TenDP": "Diazepam 10mg/2ml-335",
+    "DVT": "Ống",
+    "TonHT": 4
+  },
+  {
+    "id": 1768323666041,
+    "TenDP": "Midazolam B. Braun 5mg/ml-1239",
+    "DVT": "Ống",
+    "TonHT": 4
+  },
+  {
+    "id": 1768323666042,
+    "TenDP": "Seduxen 5mg 5mg -317",
+    "DVT": "Viên",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666043,
+    "TenDP": "Aminazin 1,25%-25mg",
+    "DVT": "Ông",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666044,
+    "TenDP": "Dexamethasone 4mg/1ml -1239",
+    "DVT": "Ông",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666045,
+    "TenDP": "Dimedrol 10mg/ml -317",
+    "DVT": "ống",
+    "TonHT": 55
+  },
+  {
+    "id": 1768323666046,
+    "TenDP": "Glucose 30% 1,5g/5ml -317",
+    "DVT": "ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666047,
+    "TenDP": "Medcelore Injection 40mg -317",
+    "DVT": "Lọ",
+    "TonHT": 30
+  },
+  {
+    "id": 1768323666048,
+    "TenDP": "Nước cất tiêm 5ml(*)",
+    "DVT": "ống",
+    "TonHT": 60
+  },
+  {
+    "id": 1768323666049,
+    "TenDP": "Potassium Chloride 1g/10ml(*)",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666050,
+    "TenDP": "Siutamid Injection 10mg/2ml -317",
+    "DVT": "Ống",
+    "TonHT": 6
+  },
+  {
+    "id": 1768323666051,
+    "TenDP": "Takizd 20mg/2ml -1239",
+    "DVT": "Ống",
+    "TonHT": 8
+  },
+  {
+    "id": 1768323666052,
+    "TenDP": "Vinfadin V20 20mg -317",
+    "DVT": "Lọ",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666053,
+    "TenDP": "Voltaren 75mg/3ml - 758",
+    "DVT": "ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666054,
+    "TenDP": "Atropin sulfat 0,25mg/1ml -317",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666055,
+    "TenDP": "BFS-Neostigmine 0,25mg/ml(*)",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666056,
+    "TenDP": "Depakine 200mg/ml 200mg/ml -317",
+    "DVT": "Viên",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666057,
+    "TenDP": "Bilaxten 20mg -285",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666058,
+    "TenDP": "Nifedipin Hasan 20 Retard 20mg -1239",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666059,
+    "TenDP": "PARTAMOL TAB. 500mg 335",
+    "DVT": "Viên",
+    "TonHT": 40
+  },
+  {
+    "id": 1768323666060,
+    "TenDP": "Gelofusine (20g+3,505g+ 0,68g/500ml-1239",
+    "DVT": "Chai",
+    "TonHT": 4
+  },
+  {
+    "id": 1768323666061,
+    "TenDP": "Sodium Chloride 0,9%/250ml -317",
+    "DVT": "Chai",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666062,
+    "TenDP": "Sodium chloride 0,9%/500ml -317",
+    "DVT": "Chai",
+    "TonHT": 17
+  },
+  {
+    "id": 1768323666063,
+    "TenDP": "Midazolam B. Braun 5mg/ml-1239",
+    "DVT": "Ống",
+    "TonHT": 30
+  },
+  {
+    "id": 1768323666064,
+    "TenDP": "Seduxen 5mg 5mg -317",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666065,
+    "TenDP": "A.T Nitroglycerin inj 10mg 335",
+    "DVT": "Ống",
+    "TonHT": 15
+  },
+  {
+    "id": 1768323666066,
+    "TenDP": "Adrenalin 1mg/1ml -806",
+    "DVT": "Ông",
+    "TonHT": 30
+  },
+  {
+    "id": 1768323666067,
+    "TenDP": "Adrenaline-BFS 5mg/5ml -317",
+    "DVT": "Lọ",
+    "TonHT": 40
+  },
+  {
+    "id": 1768323666068,
+    "TenDP": "BFS-Nabica 8,4% ,10 ml -317",
+    "DVT": "Lọ",
+    "TonHT": 30
+  },
+  {
+    "id": 1768323666069,
+    "TenDP": "BFS-Noradrenaline 10mg -335",
+    "DVT": "Lọ",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666070,
+    "TenDP": "Calci clorid 500mg/ 5ml -335",
+    "DVT": "ống",
+    "TonHT": 15
+  },
+  {
+    "id": 1768323666071,
+    "TenDP": "Cordarone 150mg/ 3ml -335",
+    "DVT": "Ống",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666072,
+    "TenDP": "Dexamethasone 4mg/1ml -1239",
+    "DVT": "Ông",
+    "TonHT": 15
+  },
+  {
+    "id": 1768323666073,
+    "TenDP": "Digoxin-BFS 0,25mg -1239",
+    "DVT": "Lọ",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666074,
+    "TenDP": "Dimedrol 10mg/ml -317",
+    "DVT": "ống",
+    "TonHT": 40
+  },
+  {
+    "id": 1768323666075,
+    "TenDP": "Dobutamin - BFS 250mg/5ml -317",
+    "DVT": "Ống",
+    "TonHT": 12
+  },
+  {
+    "id": 1768323666076,
+    "TenDP": "Falipan  200mg/ 10ml -317",
+    "DVT": "Ống",
+    "TonHT": 12
+  },
+  {
+    "id": 1768323666077,
+    "TenDP": "Glucose 30% 1,5g/5ml -317",
+    "DVT": "ống",
+    "TonHT": 15
+  },
+  {
+    "id": 1768323666078,
+    "TenDP": "Golistin-enema / 133ml -317",
+    "DVT": "Lọ",
+    "TonHT": 6
+  },
+  {
+    "id": 1768323666079,
+    "TenDP": "Lidocain-BFS 200mg -806",
+    "DVT": "lọ",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666080,
+    "TenDP": "Magnesi sulfat Kabi 15%/10ml(*)",
+    "DVT": "ống",
+    "TonHT": 15
+  },
+  {
+    "id": 1768323666081,
+    "TenDP": "Medcelore Injection 40mg -317",
+    "DVT": "Lọ",
+    "TonHT": 22
+  },
+  {
+    "id": 1768323666082,
+    "TenDP": "Nicardipine Aguettant 10mg/10ml -317",
+    "DVT": "Ống",
+    "TonHT": 15
+  },
+  {
+    "id": 1768323666083,
+    "TenDP": "Nước cất tiêm 5ml(*)",
+    "DVT": "ống",
+    "TonHT": 36
+  },
+  {
+    "id": 1768323666084,
+    "TenDP": "Paringold Injection 25.000IU -317",
+    "DVT": "Lọ",
+    "TonHT": 4
+  },
+  {
+    "id": 1768323666085,
+    "TenDP": "Potassium Chloride 1g/10ml(*)",
+    "DVT": "Ống",
+    "TonHT": 15
+  },
+  {
+    "id": 1768323666086,
+    "TenDP": "Prosulf 10mg/ml**",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666087,
+    "TenDP": "Siutamid Injection 10mg/2ml -317",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666088,
+    "TenDP": "Takizd 20mg/2ml -1239",
+    "DVT": "Ống",
+    "TonHT": 60
+  },
+  {
+    "id": 1768323666089,
+    "TenDP": "Ventolin Inhaler 100mcg/liều xịt**",
+    "DVT": "Bình",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666090,
+    "TenDP": "Vincomid 10mg/2ml -317",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666091,
+    "TenDP": "Vincynon 500mg/4ml - 335",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666092,
+    "TenDP": "Vinsalpium (2,5mg+0,5mg)/2,5ml -1239",
+    "DVT": "Ống",
+    "TonHT": 15
+  },
+  {
+    "id": 1768323666093,
+    "TenDP": "Atropin sulfat 0,25mg/1ml -317",
+    "DVT": "Ống",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666094,
+    "TenDP": "Aubein 25mg/2.5ml -317",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666095,
+    "TenDP": "PVP - Iodine 10% 10% 120ml -806",
+    "DVT": "Lọ",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666096,
+    "TenDP": "DIGOXINEQUALY  0,25mg -1239",
+    "DVT": "viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666097,
+    "TenDP": "Kalium chloratum biomedica 500mg -335",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666098,
+    "TenDP": "Nifedipin Hasan 20 Retard 20mg -1239",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666099,
+    "TenDP": "PARTAMOL TAB. 500mg 335",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666100,
+    "TenDP": "SaVi Telmisartan 80 80mg -317",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666101,
+    "TenDP": "Vinzix 40mg -1239",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666102,
+    "TenDP": "Gelofusine (20g+3,505g+ 0,68g/500ml-1239",
+    "DVT": "Chai",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666103,
+    "TenDP": "Lactated Ringers 500ml -317",
+    "DVT": "chai",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666104,
+    "TenDP": "Sodium chloride 0,9%/500ml -317",
+    "DVT": "Chai",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666105,
+    "TenDP": "IMERIXX 200 200mg -317",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666106,
+    "TenDP": "Diazepam 10mg/2ml-335",
+    "DVT": "Ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666107,
+    "TenDP": "Seduxen 5mg 5mg -317",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666108,
+    "TenDP": "Adrenalin 1mg/1ml(*)",
+    "DVT": "Ông",
+    "TonHT": 62
+  },
+  {
+    "id": 1768323666109,
+    "TenDP": "Calci clorid 500mg/ 5ml -335",
+    "DVT": "ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666110,
+    "TenDP": "Dimedrol 10mg/1ml(*)",
+    "DVT": "ống",
+    "TonHT": 40
+  },
+  {
+    "id": 1768323666111,
+    "TenDP": "Dimedrol 10mg/ml -317",
+    "DVT": "ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666112,
+    "TenDP": "Glucose 30% 1,5g/5ml -317",
+    "DVT": "ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666113,
+    "TenDP": "Glucose 30% 1.5g/5ml(*)",
+    "DVT": "ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666114,
+    "TenDP": "Medcelore Injection 40mg -317",
+    "DVT": "Lọ",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666115,
+    "TenDP": "Nước cất tiêm 5ml(*)",
+    "DVT": "ống",
+    "TonHT": 48
+  },
+  {
+    "id": 1768323666116,
+    "TenDP": "Potassium Chloride 1g/10ml(*)",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666117,
+    "TenDP": "Siutamid Injection 10mg/2ml -317",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666118,
+    "TenDP": "Takizd 20mg/2ml -1239",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666119,
+    "TenDP": "Ventolin Inhaler 100mcg/liều xịt**.",
+    "DVT": "Bình",
+    "TonHT": 1
+  },
+  {
+    "id": 1768323666120,
+    "TenDP": "Vincynon 500mg/4ml - 335",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666121,
+    "TenDP": "Vinfadin V20 20mg -317",
+    "DVT": "Lọ",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666122,
+    "TenDP": "Vinsolon(*)",
+    "DVT": "Ống",
+    "TonHT": 18
+  },
+  {
+    "id": 1768323666123,
+    "TenDP": "Vinterlin 0,5mg/ml -806",
+    "DVT": "Ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666124,
+    "TenDP": "Atropin sulfat 0,25mg/1ml -317",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666125,
+    "TenDP": "Amlor 5mg -285",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666126,
+    "TenDP": "PARTAMOL TAB. 500mg 335",
+    "DVT": "Viên",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666127,
+    "TenDP": "Lactated Ringers 500ml -317",
+    "DVT": "chai",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666128,
+    "TenDP": "Sodium chloride 0,9%/500ml -317",
+    "DVT": "Chai",
+    "TonHT": 15
+  },
+  {
+    "id": 1768323666129,
+    "TenDP": "Diazepam 10mg/2ml-335",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666130,
+    "TenDP": "Midazolam B. Braun 5mg/ml-1239",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666131,
+    "TenDP": "Seduxen 5mg 5mg -317",
+    "DVT": "Viên",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666132,
+    "TenDP": "Dimedrol 10mg/ml -317",
+    "DVT": "ống",
+    "TonHT": 53
+  },
+  {
+    "id": 1768323666133,
+    "TenDP": "Fumagate - Fort  -317",
+    "DVT": "Gói",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666134,
+    "TenDP": "Medcelore Injection 40mg -317",
+    "DVT": "Lọ",
+    "TonHT": 34
+  },
+  {
+    "id": 1768323666135,
+    "TenDP": "Nước cất pha tiêm 5ml-1239",
+    "DVT": "ống",
+    "TonHT": 61
+  },
+  {
+    "id": 1768323666136,
+    "TenDP": "Potassium Chloride Proamp1g/10ml-1239",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666137,
+    "TenDP": "Pulmicort Respules 1mg/2ml 758",
+    "DVT": "Ống",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666138,
+    "TenDP": "Takizd 20mg/2ml -1239",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666139,
+    "TenDP": "Vincynon 500mg/4ml - 335",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666140,
+    "TenDP": "Vinphyton 10mg 10mg/1ml -1239",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666141,
+    "TenDP": "Vinterlin 0,5mg/ml -1239",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666142,
+    "TenDP": "Vinterlin 0,5mg/ml -806",
+    "DVT": "Ống",
+    "TonHT": 35
+  },
+  {
+    "id": 1768323666143,
+    "TenDP": "Fresofol 1% Mct/Lct 1% (10mg/ml) -317",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666144,
+    "TenDP": "Bilaxten 20mg -285",
+    "DVT": "Viên",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666145,
+    "TenDP": "Exforge HCT 5mg/160mg/12.5mg -758",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666146,
+    "TenDP": "PARTAMOL TAB. 500mg 335",
+    "DVT": "Viên",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666147,
+    "TenDP": "STADNEX 40 CAP 40mg -317",
+    "DVT": "Viên",
+    "TonHT": 7
+  },
+  {
+    "id": 1768323666148,
+    "TenDP": "GLUCOSE 20%/100ml/500ml-317",
+    "DVT": "Chai",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666149,
+    "TenDP": "Lactated Ringers 500ml -317",
+    "DVT": "chai",
+    "TonHT": 12
+  },
+  {
+    "id": 1768323666150,
+    "TenDP": "Sodium chloride 0,9%/500ml -317",
+    "DVT": "Chai",
+    "TonHT": 15
+  },
+  {
+    "id": 1768323666151,
+    "TenDP": "Diazepam 10mg/2ml-335",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666152,
+    "TenDP": "Midazolam B. Braun 5mg/ml-1239",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666153,
+    "TenDP": "Seduxen 5mg 5mg -317",
+    "DVT": "Viên",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666154,
+    "TenDP": "Adrenalin 1mg/1ml -1239",
+    "DVT": "Ông",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666155,
+    "TenDP": "Adrenaline-BFS 5mg/5ml -317",
+    "DVT": "Lọ",
+    "TonHT": 25
+  },
+  {
+    "id": 1768323666156,
+    "TenDP": "BFS-Noradrenaline 10mg -335",
+    "DVT": "Lọ",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666157,
+    "TenDP": "Dimedrol 10mg/ml",
+    "DVT": "ống",
+    "TonHT": 45
+  },
+  {
+    "id": 1768323666158,
+    "TenDP": "Dimedrol 10mg/ml -1239",
+    "DVT": "ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666159,
+    "TenDP": "Dimedrol 10mg/ml -317",
+    "DVT": "ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666160,
+    "TenDP": "Glucose 30% 1,5g/5ml -317",
+    "DVT": "ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666161,
+    "TenDP": "Medcelore Injection 40mg -317",
+    "DVT": "Lọ",
+    "TonHT": 55
+  },
+  {
+    "id": 1768323666162,
+    "TenDP": "No-Spa 40mg/2ml - 1239",
+    "DVT": "Ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666163,
+    "TenDP": "Nước cất tiêm 5ml(*)",
+    "DVT": "ống",
+    "TonHT": 54
+  },
+  {
+    "id": 1768323666164,
+    "TenDP": "Potassium Chloride 10%/10ml",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666165,
+    "TenDP": "Potassium Chloride Proamp1g/10ml-1239",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666166,
+    "TenDP": "Takizd 20mg/2ml -1239",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666167,
+    "TenDP": "Toxaxine 500mg Inj 500mg -1239",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666168,
+    "TenDP": "Vincomid 10mg/2ml -335",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666169,
+    "TenDP": "Vincynon 500mg/4ml - 335",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666170,
+    "TenDP": "Vinsalpium (2,5mg+0,5mg)/2,5ml -1239",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666171,
+    "TenDP": "Vintanil 500 500mg -317",
+    "DVT": "Lọ",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666172,
+    "TenDP": "Vinterlin 0,5mg/ml -1239",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666173,
+    "TenDP": "Voltaren 75mg/3ml 75mg/3ml -285",
+    "DVT": "ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666174,
+    "TenDP": "Atropin sulfat 0,25mg/1ml -317",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666175,
+    "TenDP": "BFS-Neostigmine 0,25mg/ml(*)",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666176,
+    "TenDP": "Carbamazepin 200mg 200mg -335",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666177,
+    "TenDP": "Depakine 200mg/ml 200mg/ml -317",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666178,
+    "TenDP": "Amlor 5mg -285",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666179,
+    "TenDP": "Lambertu 60mg -1239",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666180,
+    "TenDP": "Lyrica 75mg -285",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666181,
+    "TenDP": "MIRENZINE 5 5mg 335",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666182,
+    "TenDP": "PARTAMOL TAB. 500mg 335",
+    "DVT": "Viên",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666183,
+    "TenDP": "STADNEX 40 CAP 40mg -317",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666184,
+    "TenDP": "Tanganil 500mg 500mg -317",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666185,
+    "TenDP": "GLUCOSE 20%/100ml/500ml-317",
+    "DVT": "Chai",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666186,
+    "TenDP": "Lactated Ringers 500ml -317",
+    "DVT": "chai",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666187,
+    "TenDP": "NATRI BICARBONAT 1,4% 3,5g/250ml -317",
+    "DVT": "Chai",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666188,
+    "TenDP": "Sodium chloride 0,9%/500ml -317",
+    "DVT": "Chai",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666189,
+    "TenDP": "Diazepam 10mg/2ml-335",
+    "DVT": "Ống",
+    "TonHT": 6
+  },
+  {
+    "id": 1768323666190,
+    "TenDP": "Seduxen 5mg 5mg -317",
+    "DVT": "Viên",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666191,
+    "TenDP": "A.T Nitroglycerin inj 10mg 335",
+    "DVT": "Ống",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666192,
+    "TenDP": "Adrenaline-BFS 5mg/5ml -317",
+    "DVT": "Lọ",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666193,
+    "TenDP": "BFS-Noradrenaline 10mg -335",
+    "DVT": "Lọ",
+    "TonHT": 3
+  },
+  {
+    "id": 1768323666194,
+    "TenDP": "Dimedrol 10mg/1ml(*)",
+    "DVT": "ống",
+    "TonHT": 55
+  },
+  {
+    "id": 1768323666195,
+    "TenDP": "Dobutamin - BFS 250mg/5ml -317",
+    "DVT": "Ống",
+    "TonHT": 3
+  },
+  {
+    "id": 1768323666196,
+    "TenDP": "Glucose 30% 1,5g/5ml -317",
+    "DVT": "ống",
+    "TonHT": 40
+  },
+  {
+    "id": 1768323666197,
+    "TenDP": "Lovenox-40mg/0,4ml",
+    "DVT": "Bơm tiêm",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666198,
+    "TenDP": "Medcelore Injection 40mg -317",
+    "DVT": "Lọ",
+    "TonHT": 22
+  },
+  {
+    "id": 1768323666199,
+    "TenDP": "Nicardipine Aguettant 10mg/10ml -317",
+    "DVT": "Ống",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666200,
+    "TenDP": "No-Spa 40mg/2ml - 1239",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666201,
+    "TenDP": "Nước cất tiêm 5ml(*)",
+    "DVT": "ống",
+    "TonHT": 66
+  },
+  {
+    "id": 1768323666202,
+    "TenDP": "Potassium Chloride 1g/10ml(*)",
+    "DVT": "Ống",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666203,
+    "TenDP": "Siutamid Injection 10mg/2ml -317",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666204,
+    "TenDP": "Takizd 20mg/2ml -1239",
+    "DVT": "Ống",
+    "TonHT": 70
+  },
+  {
+    "id": 1768323666205,
+    "TenDP": "Vinterlin 0,5mg/ml -806",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666206,
+    "TenDP": "Voltaren 75mg/3ml - 758",
+    "DVT": "ống",
+    "TonHT": 6
+  },
+  {
+    "id": 1768323666207,
+    "TenDP": "Bilaxten 20mg -285",
+    "DVT": "Viên",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666208,
+    "TenDP": "Gelofusine (20g+3,505g+ 0,68g/500ml-1239",
+    "DVT": "Chai",
+    "TonHT": 7
+  },
+  {
+    "id": 1768323666209,
+    "TenDP": "Lactated Ringers 500ml -317",
+    "DVT": "chai",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666210,
+    "TenDP": "Sodium chloride 0,9%/500ml -317",
+    "DVT": "Chai",
+    "TonHT": 14
+  },
+  {
+    "id": 1768323666211,
+    "TenDP": "Ceftizoxim 2 g 2g -335",
+    "DVT": "Lọ",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666212,
+    "TenDP": "Ofloquino 2mg/ml x 100ml -335",
+    "DVT": "Túi",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666213,
+    "TenDP": "Thinmcz-2000 2g -335",
+    "DVT": "Lọ",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666214,
+    "TenDP": "Diazepam 10mg/2ml-335",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666215,
+    "TenDP": "Ephedrine Aguettant 30mg/10ml -335",
+    "DVT": "Bơm",
+    "TonHT": 3
+  },
+  {
+    "id": 1768323666216,
+    "TenDP": "Seduxen 5mg 5mg -317",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666217,
+    "TenDP": "Adrenalin 1mg/1ml -806",
+    "DVT": "Ông",
+    "TonHT": 104
+  },
+  {
+    "id": 1768323666218,
+    "TenDP": "Dimedrol 10mg/ml",
+    "DVT": "ống",
+    "TonHT": 45
+  },
+  {
+    "id": 1768323666219,
+    "TenDP": "Dimedrol 10mg/ml -1239",
+    "DVT": "ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666220,
+    "TenDP": "Golistin-enema / 133ml -317",
+    "DVT": "Lọ",
+    "TonHT": 4
+  },
+  {
+    "id": 1768323666221,
+    "TenDP": "Hantacid 10ml-317",
+    "DVT": "Ống",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666222,
+    "TenDP": "Livethine  2g -1239",
+    "DVT": "Lọ",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666223,
+    "TenDP": "Medcelore Injection 40mg -317",
+    "DVT": "Lọ",
+    "TonHT": 27
+  },
+  {
+    "id": 1768323666224,
+    "TenDP": "Nexium 42,5mg  285",
+    "DVT": "Lọ",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666225,
+    "TenDP": "No-Spa 40mg/2ml - 1239",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666226,
+    "TenDP": "Nước cất pha tiêm 5ml",
+    "DVT": "ống",
+    "TonHT": 54
+  },
+  {
+    "id": 1768323666227,
+    "TenDP": "Potassium Chloride 1g/10ml(*)",
+    "DVT": "Ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666228,
+    "TenDP": "Pulmicort Respules 500mcg/2ml 285",
+    "DVT": "Ống",
+    "TonHT": 6
+  },
+  {
+    "id": 1768323666229,
+    "TenDP": "Takizd 20mg/2ml -1239",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666230,
+    "TenDP": "Ventolin Inhaler 100mcg/liều xịt**.",
+    "DVT": "Bình",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666231,
+    "TenDP": "Vincynon 500mg/4ml - 335",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666232,
+    "TenDP": "Vinfadin V20 20mg -317",
+    "DVT": "Lọ",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666233,
+    "TenDP": "Vinphyton 10mg 10mg/1ml -1239",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666234,
+    "TenDP": "Vinterlin 0,5mg/ml -806",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666235,
+    "TenDP": "Atropin sulfat 0,25mg/1ml -317",
+    "DVT": "Ống",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666236,
+    "TenDP": "Fresofol 1% Mct/Lct 1% (10mg/ml) -317",
+    "DVT": "Ống",
+    "TonHT": 50
+  },
+  {
+    "id": 1768323666237,
+    "TenDP": "Octreotid 0,1mg/1ml -317",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666238,
+    "TenDP": "Amlor 5mg -285",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666239,
+    "TenDP": "Bilaxten 20mg -285",
+    "DVT": "Viên",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666240,
+    "TenDP": "Biosubtyl-II 10 m? 7 - 10 m? 8 CFU -1239",
+    "DVT": "Viên",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666241,
+    "TenDP": "Duspatalin retard 200mg 758",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666242,
+    "TenDP": "PARTAMOL TAB. 500mg 335",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666243,
+    "TenDP": "Lactated Ringers 500ml -317",
+    "DVT": "chai",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666244,
+    "TenDP": "Sodium chloride 0,9%/500ml -317",
+    "DVT": "Chai",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666245,
+    "TenDP": "Diazepam 10mg/2ml-335",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666246,
+    "TenDP": "Seduxen 5mg 5mg -317",
+    "DVT": "Viên",
+    "TonHT": 50
+  },
+  {
+    "id": 1768323666247,
+    "TenDP": "A.T Nitroglycerin inj 10mg 335",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666248,
+    "TenDP": "Adrenalin 1mg/1ml -806",
+    "DVT": "Ông",
+    "TonHT": 30
+  },
+  {
+    "id": 1768323666249,
+    "TenDP": "Adrenaline-BFS 5mg/5ml -317",
+    "DVT": "Lọ",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666250,
+    "TenDP": "Calci clorid 500mg/ 5ml -335",
+    "DVT": "ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666251,
+    "TenDP": "Digoxin-BFS 0,25mg -1239",
+    "DVT": "Lọ",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666252,
+    "TenDP": "Dimedrol 10mg/1ml(*)",
+    "DVT": "ống",
+    "TonHT": 30
+  },
+  {
+    "id": 1768323666253,
+    "TenDP": "Glucose 30% 1.5g/5ml(*)",
+    "DVT": "ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666254,
+    "TenDP": "Lovenox-40mg/0,4ml",
+    "DVT": "Bơm tiêm",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666255,
+    "TenDP": "Magnesi sulfat Kabi 15%/10ml(*)",
+    "DVT": "ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666256,
+    "TenDP": "Nước cất tiêm 5ml(*)",
+    "DVT": "ống",
+    "TonHT": 36
+  },
+  {
+    "id": 1768323666257,
+    "TenDP": "Panangin-400mg+452mg(*)",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666258,
+    "TenDP": "Pdsolone-40mg-1239",
+    "DVT": "Lọ",
+    "TonHT": 12
+  },
+  {
+    "id": 1768323666259,
+    "TenDP": "Potassium Chloride 1g/10ml(*)",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666260,
+    "TenDP": "Takizd 20mg/2ml -1239",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666261,
+    "TenDP": "Vincynon 500mg/4ml - 335",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666262,
+    "TenDP": "Vintanil 500 500mg -317",
+    "DVT": "Lọ",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666263,
+    "TenDP": "Vinterlin 0,5mg/ml -806",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666264,
+    "TenDP": "Voltaren 75mg/3ml - 758",
+    "DVT": "ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666265,
+    "TenDP": "Exforge HCT 5mg/160mg/12.5mg -758",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666266,
+    "TenDP": "Kalium chloratum biomedica 500mg -335",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666267,
+    "TenDP": "Nifedipin Hasan 20 Retard 20mg -1239",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666268,
+    "TenDP": "PARTAMOL TAB. 500mg 335",
+    "DVT": "Viên",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666269,
+    "TenDP": "PLAVIX 75mg *",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666270,
+    "TenDP": "SPIROVELL 50mg -1239",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666271,
+    "TenDP": "GLUCOSE 20%/100ml/500ml-317",
+    "DVT": "Chai",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666272,
+    "TenDP": "Lactated Ringers 500ml -317",
+    "DVT": "chai",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666273,
+    "TenDP": "NATRI BICARBONAT 1,4% 3,5g/250ml -317",
+    "DVT": "Chai",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666274,
+    "TenDP": "Sodium Chloride 0,9%/250ml -317",
+    "DVT": "Chai",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666275,
+    "TenDP": "Sodium chloride 0,9%/500ml -317",
+    "DVT": "Chai",
+    "TonHT": 11
+  },
+  {
+    "id": 1768323666276,
+    "TenDP": "Levofloxacin/cooper solu.500mg/100ml-52",
+    "DVT": "Chai",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666277,
+    "TenDP": "Zinhepa Inj. 1g -317",
+    "DVT": "Lọ",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666278,
+    "TenDP": "Diazepam 10mg/2ml-335",
+    "DVT": "Ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666279,
+    "TenDP": "Seduxen 5mg 5mg -317",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666280,
+    "TenDP": "Adrenaline-BFS 5mg/5ml -317",
+    "DVT": "Lọ",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666281,
+    "TenDP": "Calci clorid 500mg/ 5ml -335",
+    "DVT": "ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666282,
+    "TenDP": "Dimedrol 10mg/ml -317",
+    "DVT": "ống",
+    "TonHT": 30
+  },
+  {
+    "id": 1768323666283,
+    "TenDP": "Glucose 30% 1,5g/5ml -317",
+    "DVT": "ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666284,
+    "TenDP": "Medcelore Injection 40mg -317",
+    "DVT": "Lọ",
+    "TonHT": 17
+  },
+  {
+    "id": 1768323666285,
+    "TenDP": "Nicardipine Aguettant 10mg/10ml -317",
+    "DVT": "Ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666286,
+    "TenDP": "No-Spa 40mg/2ml - 1239",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666287,
+    "TenDP": "Nước cất tiêm 5ml(*)",
+    "DVT": "ống",
+    "TonHT": 36
+  },
+  {
+    "id": 1768323666288,
+    "TenDP": "Potassium Chloride 1g/10ml(*)",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666289,
+    "TenDP": "Smail 4g  -1239",
+    "DVT": "Gói",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666290,
+    "TenDP": "Takizd 20mg/2ml -1239",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666291,
+    "TenDP": "Vincynon 500mg/4ml - 335",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666292,
+    "TenDP": "Vinfadin V20 20mg -317",
+    "DVT": "Lọ",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666293,
+    "TenDP": "Vinphyton 10mg 10mg/1ml -1239",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666294,
+    "TenDP": "Vinsalpium (2,5mg+0,5mg)/2,5ml -1239",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666295,
+    "TenDP": "Vintanil 500 500mg -317",
+    "DVT": "Lọ",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666296,
+    "TenDP": "Vinterlin 0,5mg/ml -1239",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666297,
+    "TenDP": "Voltaren 75mg/3ml - 758",
+    "DVT": "ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666298,
+    "TenDP": "Zensonid 0,5 mg 335",
+    "DVT": "Lọ",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666299,
+    "TenDP": "Amlor 5mg -285",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666300,
+    "TenDP": "BERLTHYROX 100 (*)",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666301,
+    "TenDP": "Bilaxten 20mg -285",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666302,
+    "TenDP": "Imidu® 60mg (*)",
+    "DVT": "viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666303,
+    "TenDP": "PARTAMOL TAB. 500mg 335",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666304,
+    "TenDP": "Thyrozol 5mg",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666305,
+    "TenDP": "Vinzix 40mg -1239",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666306,
+    "TenDP": "Lactated Ringers 500ml -317",
+    "DVT": "chai",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666307,
+    "TenDP": "Diazepam 10mg/2ml-335",
+    "DVT": "Ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666308,
+    "TenDP": "Seduxen 5mg 5mg -317",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666309,
+    "TenDP": "Adrenalin 1mg/1ml -806",
+    "DVT": "Ông",
+    "TonHT": 30
+  },
+  {
+    "id": 1768323666310,
+    "TenDP": "Calci clorid 500mg/ 5ml -335",
+    "DVT": "ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666311,
+    "TenDP": "Dimedrol 10mg/ml -317",
+    "DVT": "ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666312,
+    "TenDP": "Glucose 30% 1,5g/5ml -317",
+    "DVT": "ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666313,
+    "TenDP": "Haemostop 100mg/ml -317",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666314,
+    "TenDP": "Medcelore Injection 40mg -317",
+    "DVT": "Lọ",
+    "TonHT": 6
+  },
+  {
+    "id": 1768323666315,
+    "TenDP": "No-Spa 40mg/2ml - 1239",
+    "DVT": "Ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666316,
+    "TenDP": "Nước cất tiêm 5ml(*)",
+    "DVT": "ống",
+    "TonHT": 12
+  },
+  {
+    "id": 1768323666317,
+    "TenDP": "Potassium Chloride Proamp 1g/10ml -806",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666318,
+    "TenDP": "Pulmicort Respules 500mcg/2ml 285",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666319,
+    "TenDP": "Takizd 20mg/2ml -1239",
+    "DVT": "Ống",
+    "TonHT": 4
+  },
+  {
+    "id": 1768323666320,
+    "TenDP": "Vincomid 10mg/2ml -317",
+    "DVT": "Ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666321,
+    "TenDP": "Vinsalpium (2,5mg+0,5mg)/2,5ml -1239",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666322,
+    "TenDP": "Vinterlin 0,5mg/ml -806",
+    "DVT": "Ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666323,
+    "TenDP": "Voltaren 75mg/3ml - 758",
+    "DVT": "ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666324,
+    "TenDP": "Atropin sulfat 0,25mg/1ml -317",
+    "DVT": "Ống",
+    "TonHT": 7
+  },
+  {
+    "id": 1768323666325,
+    "TenDP": "Depakine 200mg 200mg -1239",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666326,
+    "TenDP": "Bilaxten 20mg -285",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666327,
+    "TenDP": "Kavasdin 5 -806",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666328,
+    "TenDP": "Tetracyclin 1%",
+    "DVT": "Tube",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666329,
+    "TenDP": "Adrenalin 1mg/ml",
+    "DVT": "Ông",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666330,
+    "TenDP": "Dimedrol 10mg/ml",
+    "DVT": "ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666331,
+    "TenDP": "Lidocain 2%/2ml",
+    "DVT": "ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666332,
+    "TenDP": "Natri clorua 0,9% 10ml",
+    "DVT": "Lọ",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666333,
+    "TenDP": "Nước cất pha tiêm 5ml",
+    "DVT": "ống",
+    "TonHT": 22
+  },
+  {
+    "id": 1768323666334,
+    "TenDP": "Pdsolone-40mg-1239",
+    "DVT": "Lọ",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666335,
+    "TenDP": "Danapha Telfadin 60mg",
+    "DVT": "Viên",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666336,
+    "TenDP": "Lactated Ringers 500ml -317",
+    "DVT": "chai",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666337,
+    "TenDP": "Mannitol 20% x 250ml 335",
+    "DVT": "Chai",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666338,
+    "TenDP": "NATRI BICARBONAT 1,4% 3,5g/250ml -317",
+    "DVT": "Chai",
+    "TonHT": 1
+  },
+  {
+    "id": 1768323666339,
+    "TenDP": "Cefoxitine Gerda 1g 1g -335",
+    "DVT": "Lọ",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666340,
+    "TenDP": "Oxacillin 1g 1g -335",
+    "DVT": "Lọ",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666341,
+    "TenDP": "Syntarpen 1g -335",
+    "DVT": "Lọ",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666342,
+    "TenDP": "Vicimadol 2g 2g -317",
+    "DVT": "Lọ",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666343,
+    "TenDP": "Zinhepa Inj. 1g -317",
+    "DVT": "Lọ",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666344,
+    "TenDP": "Ephedrine Aguettant 30mg/10ml -335",
+    "DVT": "Bơm",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666345,
+    "TenDP": "Midazolam B. Braun 5mg/ml-1239",
+    "DVT": "Ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666346,
+    "TenDP": "Actrapid 1000IU/10ml(*)",
+    "DVT": "Lọ",
+    "TonHT": 1
+  },
+  {
+    "id": 1768323666347,
+    "TenDP": "Adrenaline-BFS 5mg/5ml -317",
+    "DVT": "Lọ",
+    "TonHT": 210
+  },
+  {
+    "id": 1768323666348,
+    "TenDP": "Aharon 150 mg/3 ml - 335",
+    "DVT": "Ống",
+    "TonHT": 3
+  },
+  {
+    "id": 1768323666349,
+    "TenDP": "BFS-Noradrenaline 10mg -335",
+    "DVT": "Lọ",
+    "TonHT": 6
+  },
+  {
+    "id": 1768323666350,
+    "TenDP": "Diaphyllin Venosum 240mg -1239",
+    "DVT": "Ông",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666351,
+    "TenDP": "Diaphylline Venosum 4,8%/5ml",
+    "DVT": "ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666352,
+    "TenDP": "Dimedrol 10mg/ml",
+    "DVT": "ống",
+    "TonHT": 100
+  },
+  {
+    "id": 1768323666353,
+    "TenDP": "Glucose 30% 1.5g/5ml(*)",
+    "DVT": "ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666354,
+    "TenDP": "Nước cất pha tiêm 5ml",
+    "DVT": "ống",
+    "TonHT": 96
+  },
+  {
+    "id": 1768323666355,
+    "TenDP": "Paringold Injection 25000IU/5ml 1239",
+    "DVT": "Lọ",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666356,
+    "TenDP": "Pdsolone-40mg-1239",
+    "DVT": "Lọ",
+    "TonHT": 37
+  },
+  {
+    "id": 1768323666357,
+    "TenDP": "Potassium Chloride 10%/10ml",
+    "DVT": "Ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666358,
+    "TenDP": "Takizd 20mg/2ml -1239",
+    "DVT": "Ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666359,
+    "TenDP": "Vincynon 500mg/4ml - 335",
+    "DVT": "Ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666360,
+    "TenDP": "Vinterlin 0,5mg/ml -1239",
+    "DVT": "Ống",
+    "TonHT": 18
+  },
+  {
+    "id": 1768323666361,
+    "TenDP": "Atropin sulfat 0,25mg/1ml -317",
+    "DVT": "Ống",
+    "TonHT": 30
+  },
+  {
+    "id": 1768323666362,
+    "TenDP": "Aubein 25mg/2.5ml -317",
+    "DVT": "Ống",
+    "TonHT": 1
+  },
+  {
+    "id": 1768323666363,
+    "TenDP": "Fresofol 1% Mct/Lct 1% (10mg/ml) -317",
+    "DVT": "Ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666364,
+    "TenDP": "Marcaine Spinal Heavy 0.5% - 4ml -806",
+    "DVT": "Ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666365,
+    "TenDP": "Oxytocin 5IU/1ml -1239",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666366,
+    "TenDP": "Adrenalin 1mg/1ml -806",
+    "DVT": "Ông",
+    "TonHT": 25
+  },
+  {
+    "id": 1768323666367,
+    "TenDP": "Depaxan 3,33mg(*)",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666368,
+    "TenDP": "Dimedrol 10mg/ml",
+    "DVT": "ống",
+    "TonHT": 15
+  },
+  {
+    "id": 1768323666369,
+    "TenDP": "Magnesi sulfat kabi 15%",
+    "DVT": "ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666370,
+    "TenDP": "No-Spa 40mg/2ml - 1239",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666371,
+    "TenDP": "Nước cất pha tiêm 5ml",
+    "DVT": "ống",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666372,
+    "TenDP": "Pdsolone-40mg-1239",
+    "DVT": "Lọ",
+    "TonHT": 8
+  },
+  {
+    "id": 1768323666373,
+    "TenDP": "Takizd 20mg/2ml -1239",
+    "DVT": "Ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666374,
+    "TenDP": "Vinphyton 10mg 10mg/1ml -1239",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666375,
+    "TenDP": "Vinterlin 0,5mg/ml",
+    "DVT": "Ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666376,
+    "TenDP": "Utrogestan 200mg",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666377,
+    "TenDP": "Lactated Ringers 500ml -317",
+    "DVT": "chai",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666378,
+    "TenDP": "Sodium chloride 0,9%/500ml -317",
+    "DVT": "Chai",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666379,
+    "TenDP": "Cefoxitin 1g 1g -317",
+    "DVT": "Lọ",
+    "TonHT": 4
+  },
+  {
+    "id": 1768323666380,
+    "TenDP": "Fabadroxil 500 500mg -335",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666381,
+    "TenDP": "Seduxen 5mg 5mg -317",
+    "DVT": "Viên",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666382,
+    "TenDP": "Acido Tranexamico Bioindust. 500mg-1239",
+    "DVT": "Ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666383,
+    "TenDP": "Dexamethasone 4mg/1ml -1239",
+    "DVT": "Ông",
+    "TonHT": 4
+  },
+  {
+    "id": 1768323666384,
+    "TenDP": "Dimedrol 10mg/1ml(*)",
+    "DVT": "ống",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666385,
+    "TenDP": "HT kháng độc tố uốn ván TC(*)",
+    "DVT": "Lọ",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666386,
+    "TenDP": "Nước cất tiêm 5ml(*)",
+    "DVT": "ống",
+    "TonHT": 26
+  },
+  {
+    "id": 1768323666387,
+    "TenDP": "Pdsolone-40mg-1239",
+    "DVT": "Lọ",
+    "TonHT": 8
+  },
+  {
+    "id": 1768323666388,
+    "TenDP": "Vincynon 500mg/4ml - 335",
+    "DVT": "Ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666389,
+    "TenDP": "Voltaren 75mg/3ml 75mg/3ml -285",
+    "DVT": "ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666390,
+    "TenDP": "Kavasdin 5 -806",
+    "DVT": "Viên",
+    "TonHT": 1
+  },
+  {
+    "id": 1768323666391,
+    "TenDP": "Xonatrix 60mg -1239",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666392,
+    "TenDP": "Lactated Ringers 500ml -317",
+    "DVT": "chai",
+    "TonHT": 3
+  },
+  {
+    "id": 1768323666393,
+    "TenDP": "Smoflipid 20% /100ml -335",
+    "DVT": "Chai",
+    "TonHT": 1
+  },
+  {
+    "id": 1768323666394,
+    "TenDP": "Tenafotin 2000 2g -335",
+    "DVT": "Lọ",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666395,
+    "TenDP": "Diazepam 10mg/2ml-335",
+    "DVT": "Ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666396,
+    "TenDP": "Seduxen 5mg 5mg -317",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666397,
+    "TenDP": "Adrenalin 1mg/1ml -806",
+    "DVT": "Ông",
+    "TonHT": 34
+  },
+  {
+    "id": 1768323666398,
+    "TenDP": "Dimedrol 10mg/1ml(*)",
+    "DVT": "ống",
+    "TonHT": 25
+  },
+  {
+    "id": 1768323666399,
+    "TenDP": "Medcelore Injection 40mg -317",
+    "DVT": "Lọ",
+    "TonHT": 18
+  },
+  {
+    "id": 1768323666400,
+    "TenDP": "Nước cất tiêm 5ml(*)",
+    "DVT": "ống",
+    "TonHT": 24
+  },
+  {
+    "id": 1768323666401,
+    "TenDP": "Siutamid Injection 10mg/2ml -317",
+    "DVT": "Ống",
+    "TonHT": 3
+  },
+  {
+    "id": 1768323666402,
+    "TenDP": "Vincomid 10mg/2ml -317",
+    "DVT": "Ống",
+    "TonHT": 3
+  },
+  {
+    "id": 1768323666403,
+    "TenDP": "Vincynon 500mg/4ml - 335",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666404,
+    "TenDP": "Atropin sulfat 0,25mg/1ml -317",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666405,
+    "TenDP": "Hidrasec 100mg 100mg -1239",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666406,
+    "TenDP": "Methylprednisolon 16 16mg -1239",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666407,
+    "TenDP": "Nifedipin Hasan 20 Retard 20mg -1239",
+    "DVT": "Viên",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666408,
+    "TenDP": "PARTAMOL TAB. 500mg 335",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666409,
+    "TenDP": "Adrenalin 1mg/ml",
+    "DVT": "Ông",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666410,
+    "TenDP": "Dimedrol 10mg/ml",
+    "DVT": "ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666411,
+    "TenDP": "Nước cất pha tiêm 5ml",
+    "DVT": "ống",
+    "TonHT": 4
+  },
+  {
+    "id": 1768323666412,
+    "TenDP": "Vinsolon(*)",
+    "DVT": "Ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666413,
+    "TenDP": "GLUCOSE 20%/100ml/500ml-317",
+    "DVT": "Chai",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666414,
+    "TenDP": "Adrenalin 1mg/1ml(*)",
+    "DVT": "Ông",
+    "TonHT": 70
+  },
+  {
+    "id": 1768323666415,
+    "TenDP": "Calci clorid 500mg/ 5ml -335",
+    "DVT": "ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666416,
+    "TenDP": "Dimedrol 10mg",
+    "DVT": "ống",
+    "TonHT": 25
+  },
+  {
+    "id": 1768323666417,
+    "TenDP": "Glucose 30% 1,5g/5ml -317",
+    "DVT": "ống",
+    "TonHT": 15
+  },
+  {
+    "id": 1768323666418,
+    "TenDP": "Growpone 10% 10%10ml -1239",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666419,
+    "TenDP": "Nicardipine Aguettant 10mg/10ml -317",
+    "DVT": "Ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666420,
+    "TenDP": "Nước cất pha tiêm 5ml",
+    "DVT": "ống",
+    "TonHT": 30
+  },
+  {
+    "id": 1768323666421,
+    "TenDP": "Pdsolone-40mg-1239",
+    "DVT": "Lọ",
+    "TonHT": 15
+  },
+  {
+    "id": 1768323666422,
+    "TenDP": "Atropin sulfat 0,25mg/1ml -317",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666423,
+    "TenDP": "Nifedipin Hasan 20 Retard 20mg -1239",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666424,
+    "TenDP": "Sodium chloride 0,9%/500ml -317",
+    "DVT": "Chai",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666425,
+    "TenDP": "Diazepam 10mg/2ml-335",
+    "DVT": "Ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666426,
+    "TenDP": "Midazolam B. Braun 5mg/ml-1239",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666427,
+    "TenDP": "Seduxen 5mg 5mg -317",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666428,
+    "TenDP": "A.T Nitroglycerin inj 10mg 335",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666429,
+    "TenDP": "Adrenalin 1mg/1ml -806",
+    "DVT": "Ông",
+    "TonHT": 25
+  },
+  {
+    "id": 1768323666430,
+    "TenDP": "Adrenaline-BFS 5mg/5ml -317",
+    "DVT": "Lọ",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666431,
+    "TenDP": "Aharon 150 mg/3 ml - 335",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666432,
+    "TenDP": "BFS-Noradrenaline 10mg -335",
+    "DVT": "Lọ",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666433,
+    "TenDP": "Calci clorid 500mg/ 5ml -335",
+    "DVT": "ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666434,
+    "TenDP": "Dexamethasone 4mg/1ml -1239",
+    "DVT": "Ông",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666435,
+    "TenDP": "Dimedrol 10mg/ml -317",
+    "DVT": "ống",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666436,
+    "TenDP": "Dobutamin - BFS 250mg/5ml -317",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666437,
+    "TenDP": "Glucose 30% 1,5g/5ml -1239",
+    "DVT": "ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666438,
+    "TenDP": "Glucose 30% 1,5g/5ml -317",
+    "DVT": "ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666439,
+    "TenDP": "Magnesi sulfat Kabi 15%/10ml(*)",
+    "DVT": "ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666440,
+    "TenDP": "Medcelore Injection 40mg -317",
+    "DVT": "Lọ",
+    "TonHT": 13
+  },
+  {
+    "id": 1768323666441,
+    "TenDP": "Nicardipine Aguettant 10mg/10ml -317",
+    "DVT": "Ống",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666442,
+    "TenDP": "Nước cất tiêm 5ml(*)",
+    "DVT": "ống",
+    "TonHT": 31
+  },
+  {
+    "id": 1768323666443,
+    "TenDP": "Paringold Injection 25000IU/5ml 1239",
+    "DVT": "Lọ",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666444,
+    "TenDP": "Potassium Chloride 1g/10ml(*)",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666445,
+    "TenDP": "Siutamid Injection 10mg/2ml -317",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666446,
+    "TenDP": "Vincynon 500mg/4ml - 335",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666447,
+    "TenDP": "Vinsalpium (2,5mg+0,5mg)/2,5ml -1239",
+    "DVT": "Ống",
+    "TonHT": 7
+  },
+  {
+    "id": 1768323666448,
+    "TenDP": "Vinterlin 0,5mg/ml -806",
+    "DVT": "Ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666449,
+    "TenDP": "Zensonid 0,5 mg 335",
+    "DVT": "Lọ",
+    "TonHT": 7
+  },
+  {
+    "id": 1768323666450,
+    "TenDP": "Atropin sulfat 0,25mg/1ml -317",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666451,
+    "TenDP": "Biosubtyl-II 10 m? 7 - 10 m? 8 CFU -1239",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666452,
+    "TenDP": "Efferalgan 80mg",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666453,
+    "TenDP": "TRIPLIXAM 5mg/1.25mg/5mg-317",
+    "DVT": "Viên",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666454,
+    "TenDP": "Seduxen 5mg 5mg -317",
+    "DVT": "Viên",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666455,
+    "TenDP": "A.T Nitroglycerin inj 10mg 335",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666456,
+    "TenDP": "A.T Sucralfate 1000mg/5g -1239",
+    "DVT": "gói",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666457,
+    "TenDP": "Adrenalin 1mg/1ml -806",
+    "DVT": "Ông",
+    "TonHT": 60
+  },
+  {
+    "id": 1768323666458,
+    "TenDP": "Adrenaline-BFS 5mg 1239",
+    "DVT": "Lọ",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666459,
+    "TenDP": "Aminazin 1,25%-25mg",
+    "DVT": "Ông",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666460,
+    "TenDP": "BFS - Amiron 150mg -806",
+    "DVT": "Lọ",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666461,
+    "TenDP": "Dimedrol 10mg/1ml(*)",
+    "DVT": "ống",
+    "TonHT": 35
+  },
+  {
+    "id": 1768323666462,
+    "TenDP": "Dobutamine Panpharma 250mg/20ml  -1239",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666463,
+    "TenDP": "Glucose 30% 1.5g/5ml(*)",
+    "DVT": "ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666464,
+    "TenDP": "Grani-Denk 1mg/ml 1mg/ml x 3ml -1239",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666465,
+    "TenDP": "Lidocain hydroclorid  40mg/2ml -1239",
+    "DVT": "Ống",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666466,
+    "TenDP": "Mobic 15mg/1,5ml(*)",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666467,
+    "TenDP": "Nước cất tiêm 5ml(*)",
+    "DVT": "ống",
+    "TonHT": 42
+  },
+  {
+    "id": 1768323666468,
+    "TenDP": "Panangin-400mg+452mg(*)",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666469,
+    "TenDP": "Pdsolone-40mg-1239",
+    "DVT": "Lọ",
+    "TonHT": 24
+  },
+  {
+    "id": 1768323666470,
+    "TenDP": "Potassium Chloride 1g/10ml(*)",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666471,
+    "TenDP": "Pulmicort respules 0,5mg/ml**.",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666472,
+    "TenDP": "Siutamid Injection 10mg/2ml -317",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666473,
+    "TenDP": "Takizd 20mg/2ml -1239",
+    "DVT": "Ống",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666474,
+    "TenDP": "Toxaxine 500mg Inj 500mg -1239",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666475,
+    "TenDP": "Vinterlin 0,5mg/ml -806",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666476,
+    "TenDP": "Aspirin 81 81mg -1239",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666477,
+    "TenDP": "Aspirin tab DWP 75mg 75mg -317",
+    "DVT": "Viên",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666478,
+    "TenDP": "Atoris 20mg 20mg -87",
+    "DVT": "Viên",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666479,
+    "TenDP": "Brilinta 90mg -1151",
+    "DVT": "Viên",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666480,
+    "TenDP": "Cordarone 200mg",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666481,
+    "TenDP": "Exforge 5mg + 80mg -1151",
+    "DVT": "Viên",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666482,
+    "TenDP": "PARTAMOL TAB. 500mg 335",
+    "DVT": "Viên",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666483,
+    "TenDP": "PLAVIX 75mg *",
+    "DVT": "Viên",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666484,
+    "TenDP": "Adrenalin-BFS 1mg",
+    "DVT": "Ông",
+    "TonHT": 4
+  },
+  {
+    "id": 1768323666485,
+    "TenDP": "Gelofusine (20g+3,505g+ 0,68g/500ml-1239",
+    "DVT": "Chai",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666486,
+    "TenDP": "GLUCOSE 20%/100ml/500ml-317",
+    "DVT": "Chai",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666487,
+    "TenDP": "Lactated Ringers 500ml -317",
+    "DVT": "chai",
+    "TonHT": 8
+  },
+  {
+    "id": 1768323666488,
+    "TenDP": "Mannitol 20% x 250ml 335",
+    "DVT": "Chai",
+    "TonHT": 4
+  },
+  {
+    "id": 1768323666489,
+    "TenDP": "Sodium chloride 0,9%/500ml -317",
+    "DVT": "Chai",
+    "TonHT": 12
+  },
+  {
+    "id": 1768323666490,
+    "TenDP": "Nafloxin solu.for inf. 200mg/100ml-335",
+    "DVT": "Chai",
+    "TonHT": 4
+  },
+  {
+    "id": 1768323666491,
+    "TenDP": "Trafucef-S 2g 1g + 1g -317",
+    "DVT": "Lọ",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666492,
+    "TenDP": "Diazepam 10mg/2ml-335",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666493,
+    "TenDP": "Midazolam B. Braun 5mg/ml-1239",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666494,
+    "TenDP": "Morphin 30mg -317",
+    "DVT": "Viên",
+    "TonHT": 70
+  },
+  {
+    "id": 1768323666495,
+    "TenDP": "Seduxen 5mg 5mg -317",
+    "DVT": "Viên",
+    "TonHT": 15
+  },
+  {
+    "id": 1768323666496,
+    "TenDP": "A.T Nitroglycerin inj 10mg 335",
+    "DVT": "Ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666497,
+    "TenDP": "Adrenalin 1mg/1ml -806",
+    "DVT": "Ông",
+    "TonHT": 60
+  },
+  {
+    "id": 1768323666498,
+    "TenDP": "Adrenaline-BFS 5mg 1239",
+    "DVT": "Lọ",
+    "TonHT": 25
+  },
+  {
+    "id": 1768323666499,
+    "TenDP": "Dexamethasone 4mg/1ml -1239",
+    "DVT": "Ông",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666500,
+    "TenDP": "Dimedrol 10mg/1ml(*)",
+    "DVT": "ống",
+    "TonHT": 60
+  },
+  {
+    "id": 1768323666501,
+    "TenDP": "Dimedrol 10mg/ml -317",
+    "DVT": "ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666502,
+    "TenDP": "Glucose 30% 1,5g/5ml -317",
+    "DVT": "ống",
+    "TonHT": 15
+  },
+  {
+    "id": 1768323666503,
+    "TenDP": "Medcelore Injection 40mg -317",
+    "DVT": "Lọ",
+    "TonHT": 38
+  },
+  {
+    "id": 1768323666504,
+    "TenDP": "Nicardipine Aguettant 10mg/10ml -317",
+    "DVT": "Ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666505,
+    "TenDP": "Noradrenaline BaseAguettant 4mg/4ml-335",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666506,
+    "TenDP": "No-Spa 40mg/2ml - 1239",
+    "DVT": "Ống",
+    "TonHT": 7
+  },
+  {
+    "id": 1768323666507,
+    "TenDP": "Nước cất tiêm 5ml(*)",
+    "DVT": "ống",
+    "TonHT": 72
+  },
+  {
+    "id": 1768323666508,
+    "TenDP": "Potassium Chloride 1g/10ml(*)",
+    "DVT": "Ống",
+    "TonHT": 8
+  },
+  {
+    "id": 1768323666509,
+    "TenDP": "Takizd 20mg/2ml -1239",
+    "DVT": "Ống",
+    "TonHT": 14
+  },
+  {
+    "id": 1768323666510,
+    "TenDP": "Ventolin Inhaler 100mcg/liều xịt**.",
+    "DVT": "Bình",
+    "TonHT": 1
+  },
+  {
+    "id": 1768323666511,
+    "TenDP": "VIATRINIL 3mg/3ml -317",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666512,
+    "TenDP": "Vincomid 10mg/2ml -335",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666513,
+    "TenDP": "Vincynon 500mg/4ml - 335",
+    "DVT": "Ống",
+    "TonHT": 7
+  },
+  {
+    "id": 1768323666514,
+    "TenDP": "Vinfadin V20 20mg -317",
+    "DVT": "Lọ",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666515,
+    "TenDP": "Vinphyton 10mg 10mg/1ml -1239",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666516,
+    "TenDP": "Voltaren 75mg/3ml - 758",
+    "DVT": "ống",
+    "TonHT": 7
+  },
+  {
+    "id": 1768323666517,
+    "TenDP": "Atropin sulfat 0,25mg/1ml -317",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666518,
+    "TenDP": "Nifedipin Hasan 20 Retard 20mg -1239",
+    "DVT": "Viên",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666519,
+    "TenDP": "Sodium chloride 0,9%/500ml -317",
+    "DVT": "Chai",
+    "TonHT": 200
+  },
+  {
+    "id": 1768323666520,
+    "TenDP": "Adrenaline-BFS 5mg 1239",
+    "DVT": "Lọ",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666521,
+    "TenDP": "BFS-Noradrenaline 10mg -335",
+    "DVT": "Lọ",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666522,
+    "TenDP": "Dimedrol 10mg/ml -317",
+    "DVT": "ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666523,
+    "TenDP": "Lipiodol Ultra Fluide 4,8g Iod/10ml(*)",
+    "DVT": "Ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666524,
+    "TenDP": "Lovenox-40mg/0,4ml",
+    "DVT": "Bơm tiêm",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666525,
+    "TenDP": "Medcelore Injection 40mg -317",
+    "DVT": "Lọ",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666526,
+    "TenDP": "Nicardipine Aguettant 10mg/10ml -317",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666527,
+    "TenDP": "Nước cất tiêm 5ml(*)",
+    "DVT": "ống",
+    "TonHT": 6
+  },
+  {
+    "id": 1768323666528,
+    "TenDP": "Panangin-400mg+452mg(*)",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666529,
+    "TenDP": "Paringold Injection 25.000IU -317",
+    "DVT": "Lọ",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666530,
+    "TenDP": "Takizd 20mg/2ml -1239",
+    "DVT": "Ống",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666531,
+    "TenDP": "Atropin sulfat 0,25mg/1ml -317",
+    "DVT": "Ống",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666532,
+    "TenDP": "Doxorubicin Bidiphar 10mg 317",
+    "DVT": "Lọ",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666533,
+    "TenDP": "Aspilets EC 80mg -317",
+    "DVT": "Viên",
+    "TonHT": 40
+  },
+  {
+    "id": 1768323666534,
+    "TenDP": "Brilinta 90mg 758",
+    "DVT": "Viên",
+    "TonHT": 40
+  },
+  {
+    "id": 1768323666535,
+    "TenDP": "Adrenalin 1mg/1ml(*)",
+    "DVT": "Ông",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666536,
+    "TenDP": "Calci clorid 500mg",
+    "DVT": "ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666537,
+    "TenDP": "Dimedrol 10mg",
+    "DVT": "ống",
+    "TonHT": 15
+  },
+  {
+    "id": 1768323666538,
+    "TenDP": "Lidocain 2%/2ml",
+    "DVT": "ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666539,
+    "TenDP": "Lidocain Spray 10%/38g",
+    "DVT": "lọ",
+    "TonHT": 1
+  },
+  {
+    "id": 1768323666540,
+    "TenDP": "Nước cất pha tiêm 5ml",
+    "DVT": "ống",
+    "TonHT": 4
+  },
+  {
+    "id": 1768323666541,
+    "TenDP": "Nước cất pha tiêm 5ml",
+    "DVT": "ống",
+    "TonHT": 8
+  },
+  {
+    "id": 1768323666542,
+    "TenDP": "Potassium Chloride 10%/10ml",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666543,
+    "TenDP": "Vinsolon(*)",
+    "DVT": "Ống",
+    "TonHT": 9
+  },
+  {
+    "id": 1768323666544,
+    "TenDP": "A.T Sucralfate 1000mg/5g(*)",
+    "DVT": "gói",
+    "TonHT": 20
+  },
+  {
+    "id": 1768323666545,
+    "TenDP": "Adrenalin 1mg/1ml(*)",
+    "DVT": "Ông",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666546,
+    "TenDP": "Glucose 30% 1.5g/5ml(*)",
+    "DVT": "ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666547,
+    "TenDP": "Ondansetron Bidiphar 8mg/4ml(*)",
+    "DVT": "Ống",
+    "TonHT": 5
+  },
+  {
+    "id": 1768323666548,
+    "TenDP": "Potassium Chloride 1g/10ml(*)",
+    "DVT": "Ống",
+    "TonHT": 10
+  },
+  {
+    "id": 1768323666549,
+    "TenDP": "Vinfadin V20 20mg(*)",
+    "DVT": "Lọ",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666550,
+    "TenDP": "Vinterlin 0,5mg/1ml(*)",
+    "DVT": "Ống",
+    "TonHT": 2
+  },
+  {
+    "id": 1768323666551,
+    "TenDP": "Danapha Telfadin 60mg (*)",
+    "DVT": "Viên",
+    "TonHT": 18
+  },
+  {
+    "id": 1768323666552,
+    "TenDP": "Tatanol 500mg (*)",
+    "DVT": "Viên",
+    "TonHT": 30
+  }
+]
