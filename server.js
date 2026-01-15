@@ -1,91 +1,109 @@
+require("dotenv").config(); // Load biến môi trường từ .env
 const express = require("express");
-const fs = require("fs");
-const path = require("path");
 const cors = require("cors");
 const bodyParser = require("body-parser");
+const mongoose = require("mongoose");
+
+// Import Model
+const Drug = require("./models/Drug");
 
 const app = express();
 const PORT = process.env.PORT || 5000;
-const DB_FILE = path.join(__dirname, "db.json");
 
-// Middleware
-app.use(cors()); // Cho phép React truy cập
-app.use(bodyParser.json({ limit: "50mb" })); // Tăng giới hạn để upload file Excel lớn
+// --- CẤU HÌNH MIDDLEWARE ---
+app.use(cors());
+app.use(bodyParser.json({ limit: "50mb" }));
 
-// Hàm tiện ích: Đọc dữ liệu từ file
-const readData = () => {
-  if (!fs.existsSync(DB_FILE)) {
-    return []; // Nếu chưa có file thì trả về mảng rỗng
-  }
-  const data = fs.readFileSync(DB_FILE, "utf8");
-  return data ? JSON.parse(data) : [];
-};
-
-// Hàm tiện ích: Ghi dữ liệu vào file
-const writeData = (data) => {
-  fs.writeFileSync(DB_FILE, JSON.stringify(data, null, 2), "utf8");
-};
+// --- KẾT NỐI MONGODB ---
+mongoose
+  .connect(process.env.MONGO_URI)
+  .then(() => console.log("✅ Đã kết nối thành công đến MongoDB"))
+  .catch((err) => console.error("❌ Lỗi kết nối MongoDB:", err));
 
 // --- API ROUTES ---
 
 // 1. Lấy danh sách thuốc (GET)
-app.get("/api/drugs", (req, res) => {
-  const drugs = readData();
-  res.json(drugs);
+app.get("/api/drugs", async (req, res) => {
+  try {
+    // Lấy tất cả, sắp xếp mới nhất lên đầu (theo logic cũ của bạn là unshift)
+    // -1 nghĩa là giảm dần (mới nhất -> cũ nhất)
+    const drugs = await Drug.find().sort({ _id: -1 });
+    res.json(drugs);
+  } catch (error) {
+    res.status(500).json({ message: error.message });
+  }
 });
 
 // 2. Import danh sách từ Excel (Ghi đè toàn bộ) (POST)
-app.post("/api/drugs/import", (req, res) => {
-  const newDrugs = req.body; // Mảng thuốc từ Excel
+app.post("/api/drugs/import", async (req, res) => {
+  const newDrugs = req.body;
   if (!Array.isArray(newDrugs)) {
     return res.status(400).json({ message: "Dữ liệu không hợp lệ" });
   }
-  writeData(newDrugs);
-  res.json({ message: "Import thành công", count: newDrugs.length });
+
+  try {
+    // Xóa sạch dữ liệu cũ
+    await Drug.deleteMany({});
+
+    // Thêm dữ liệu mới
+    await Drug.insertMany(newDrugs);
+
+    res.json({ message: "Import thành công", count: newDrugs.length });
+  } catch (error) {
+    res.status(500).json({ message: "Lỗi khi import: " + error.message });
+  }
 });
 
 // 3. Thêm mới một thuốc (POST)
-app.post("/api/drugs", (req, res) => {
-  const newDrug = req.body;
-  const drugs = readData();
-  drugs.unshift(newDrug); // Thêm vào đầu danh sách
-  writeData(drugs);
-  res.json(newDrug);
+app.post("/api/drugs", async (req, res) => {
+  try {
+    const newDrug = new Drug(req.body);
+    await newDrug.save();
+    res.json(newDrug);
+  } catch (error) {
+    res.status(400).json({ message: error.message });
+  }
 });
 
 // 4. Cập nhật thuốc (PUT)
-app.put("/api/drugs/:id", (req, res) => {
+app.put("/api/drugs/:id", async (req, res) => {
   const { id } = req.params;
   const updatedInfo = req.body;
-  let drugs = readData();
 
-  // Tìm và update
-  const index = drugs.findIndex((d) => String(d.id) === String(id));
-  if (index !== -1) {
-    drugs[index] = { ...drugs[index], ...updatedInfo };
-    writeData(drugs);
-    res.json(drugs[index]);
-  } else {
-    res.status(404).json({ message: "Không tìm thấy thuốc" });
+  try {
+    // Tìm thuốc có trường 'id' khớp với id gửi lên và update
+    // { new: true } để trả về dữ liệu sau khi đã sửa
+    const drug = await Drug.findOneAndUpdate({ id: id }, updatedInfo, {
+      new: true,
+    });
+
+    if (drug) {
+      res.json(drug);
+    } else {
+      res.status(404).json({ message: "Không tìm thấy thuốc" });
+    }
+  } catch (error) {
+    res.status(500).json({ message: error.message });
   }
 });
 
 // 5. Xóa thuốc (DELETE)
-app.delete("/api/drugs/:id", (req, res) => {
+app.delete("/api/drugs/:id", async (req, res) => {
   const { id } = req.params;
-  let drugs = readData();
-  const newDrugs = drugs.filter((d) => String(d.id) !== String(id));
 
-  if (drugs.length !== newDrugs.length) {
-    writeData(newDrugs);
-    res.json({ message: "Đã xóa thành công" });
-  } else {
-    res.status(404).json({ message: "Không tìm thấy thuốc để xóa" });
+  try {
+    const result = await Drug.findOneAndDelete({ id: id });
+    if (result) {
+      res.json({ message: "Xóa thành công", id });
+    } else {
+      res.status(404).json({ message: "Không tìm thấy thuốc để xóa" });
+    }
+  } catch (error) {
+    res.status(500).json({ message: error.message });
   }
 });
 
-// Khởi chạy server
+// --- KHỞI CHẠY SERVER ---
 app.listen(PORT, () => {
-  console.log(`Server đang chạy tại http://localhost:${PORT}`);
-  console.log(`Database file: ${DB_FILE}`);
+  console.log(`🚀 Server đang chạy tại http://localhost:${PORT}`);
 });
